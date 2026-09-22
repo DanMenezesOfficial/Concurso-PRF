@@ -8,10 +8,12 @@ Material de preparação para o cargo de **Agente Administrativo da Polícia Rod
 
 | Etapa | Documento | Status |
 |---|---|---|
-| 1. Verificação e diagnóstico | [docs/etapa-1-verificacao-e-diagnostico.md](docs/etapa-1-verificacao-e-diagnostico.md) | ✅ Entregue, aguardando respostas |
-| 2. Método e planejamento personalizado | — | ⏳ Aguardando diagnóstico |
-| 3. Apostila por disciplina e módulo | — | ⏳ |
-| 4. Acompanhamento semanal | — | ⏳ |
+| 1. Verificação e diagnóstico | [docs/etapa-1-verificacao-e-diagnostico.md](docs/etapa-1-verificacao-e-diagnostico.md) | ✅ Entregue |
+| 2. Plano personalizado | [docs/etapa-2-plano-personalizado.md](docs/etapa-2-plano-personalizado.md) | ✅ Entregue |
+| 2. Método de estudo | [docs/etapa-2-metodo-de-estudo.md](docs/etapa-2-metodo-de-estudo.md) | ✅ Entregue |
+| 2. Índice da apostila | [docs/indice-da-apostila.md](docs/indice-da-apostila.md) | ✅ Entregue, aguardando validação |
+| 3. Apostila por disciplina e módulo | — | ⏳ Começa por LP1 |
+| 4. Acompanhamento semanal | [docs/acompanhamento-semanal.md](docs/acompanhamento-semanal.md) | ✅ Ficha pronta |
 
 ## Etiquetas usadas em todo o material
 
