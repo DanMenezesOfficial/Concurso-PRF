@@ -5,9 +5,11 @@
 | **Título** | PRF ADM 2026 — Etapa 1: verificação oficial e diagnóstico |
 | **Cargo-alvo** | Agente Administrativo da Polícia Rodoviária Federal (área administrativa, nível médio) |
 | **Situação** | **PRÉ-EDITAL** (não há edital publicado nem autorização localizada) |
-| **Versão** | 1.0 |
-| **Data de atualização** | 22/09/2026 |
-| **Documentos utilizados** | Edital nº 01/2014-PRF (Agente Administrativo), por reprodução e resultados de busca; notícias sobre o pedido de autorização de 2026 (fontes não oficiais, usadas só como contexto) |
+| **Versão** | 1.1 |
+| **Data de atualização** | 23/09/2026 |
+| **Documentos utilizados** | Edital nº 01/2014-PRF (Agente Administrativo), **lido na íntegra** a partir do PDF enviado em 23/09/2026 (cópia hospedada por terceiro, 30 páginas); notícias sobre o pedido de autorização de 2026 (fontes não oficiais, usadas só como contexto) |
+
+> 🔄 **Atualização de 23/09/2026:** li o PDF completo do Edital nº 01/2014-PRF. As linhas históricas abaixo foram conferidas **item por item** e agora citam o item e a página. O PDF é uma cópia publicada por um site de cursos, e não pelo DOU. O conteúdo é coerente e completo, mas a conferência no Diário Oficial continua pendente. O edital verticalizado de 2014 está em [edital-2014-verticalizado.md](edital-2014-verticalizado.md).
 
 ---
 
@@ -42,14 +44,14 @@ Data da consulta de todas as linhas: **22/09/2026**.
 |---|---|---|---|
 | **Situação oficial** | **Não encontrei edital nem portaria de autorização** para a área administrativa da PRF. Veículos especializados dizem que, até 01/09/2026, não havia autorização na tabela do MGI (Ministério da Gestão e da Inovação em Serviços Públicos) nem nas páginas da PRF. | Busca na web; [Escuta Policial](https://escutapolicial.com.br/concurso-prf-administrativo-2026/), [Folha Dirigida](https://folha.qconcursos.com/n/concurso-prf-administrativo-2026-pode-ser-autorizado) | [INFORMAÇÃO NÃO CONFIRMADA] |
 | **Pedido de autorização** | O MJSP (Ministério da Justiça e Segurança Pública) teria protocolado em 27/05/2026 um pedido ao MGI para o cargo de Agente Administrativo. | [Folha Dirigida](https://folha.qconcursos.com/n/concurso-prf-administrativo-2026-pedido-novo-edital), [Gran](https://blog.grancursosonline.com.br/concurso-prf-administrativo/) | [INFORMAÇÃO NÃO CONFIRMADA] |
-| **Cargo** | Agente Administrativo, Classe A, Padrão I, do Plano Especial de Cargos do Departamento de Polícia Rodoviária Federal | Edital nº 01/2014-PRF (reprodução) | [HISTÓRICO — EDITAL ANTERIOR] |
-| **Escolaridade** | Nível intermediário (ensino médio completo) | Edital nº 01/2014-PRF (reprodução) | [HISTÓRICO — EDITAL ANTERIOR] |
-| **Banca** | **Nenhuma definida para 2026.** Em 2014 foi a FUNCAB (Fundação Professor Carlos Augusto Bittencourt). | Edital 2014 (reprodução); [TEC Concursos](https://www.tecconcursos.com.br/concursos/agente-administrativo-prf-2014) | 2026: [INFORMAÇÃO NÃO CONFIRMADA] · 2014: [HISTÓRICO — EDITAL ANTERIOR] |
-| **Vagas** | **Nenhuma oficial para 2026.** O pedido noticiado seria de **264** vagas, mas outras matérias falam em **248**. Em 2014 foram **216** vagas. | Notícias citadas; edital 2014 | 2026: [INFORMAÇÃO NÃO CONFIRMADA] · 2014: [HISTÓRICO — EDITAL ANTERIOR] |
-| **Etapas** | Em 2014: **prova objetiva** (60 questões de múltipla escolha) e **investigação social**. Não houve prova discursiva nem teste físico. | Edital 2014 (reprodução); [Qconcursos](https://www.qconcursos.com/questoes-de-concursos/concursos/prf-2014-agente-administrativo) | [HISTÓRICO — EDITAL ANTERIOR] |
+| **Cargo** | Agente Administrativo, Classe A, Padrão I, do Plano Especial de Cargos do Departamento de Polícia Rodoviária Federal | Edital nº 01/2014-PRF, preâmbulo e item 2.1 (p. 1) | [HISTÓRICO — EDITAL ANTERIOR] |
+| **Escolaridade** | Nível médio completo, com diploma registrado | Edital nº 01/2014-PRF, item 2.1.1 (p. 2) | [HISTÓRICO — EDITAL ANTERIOR] |
+| **Banca** | **Nenhuma definida para 2026.** Em 2014 foi a FUNCAB (Fundação Professor Carlos Augusto Bittencourt). | Edital 2014, preâmbulo e item 1.1 (p. 1) | 2026: [INFORMAÇÃO NÃO CONFIRMADA] · 2014: [HISTÓRICO — EDITAL ANTERIOR] |
+| **Vagas** | **Nenhuma oficial para 2026.** O pedido noticiado seria de **264** vagas, mas outras matérias falam em **248**. Em 2014 foram **216** vagas, distribuídas por regional. | Notícias citadas; edital 2014, preâmbulo (p. 1) e Anexo IV (p. 28–29) | 2026: [INFORMAÇÃO NÃO CONFIRMADA] · 2014: [HISTÓRICO — EDITAL ANTERIOR] |
+| **Etapas** | Em 2014: (1) **prova objetiva**, eliminatória e classificatória, com 60 questões de múltipla escolha, 5 alternativas cada e 3h30 de duração (itens 8.22, 9.1 e 9.1.1); (2) **investigação social**, eliminatória (item 10). Na posse, havia **exame médico admissional** (item 13.14). **Não houve prova discursiva nem teste físico.** | Edital 2014, itens 8.22, 9, 10 e 13.14 (p. 13–18 e 22) | [HISTÓRICO — EDITAL ANTERIOR] |
 | **Data da prova** | **Nenhuma data oficial.** Circula um "cronograma preliminar" atribuído à PRF (autorização em set/2026, edital em nov/2026, prova em jan/2027). Não encontrei esse documento em fonte oficial. | Notícias citadas | [INFORMAÇÃO NÃO CONFIRMADA] |
-| **Remuneração** | Em 2014: vencimento básico de R$ 2.043,17 mais GDATPRF (Gratificação de Desempenho de Atividade de Apoio Técnico-Administrativo à PRF), variável entre R$ 1.521,60 e R$ 1.902,00. Para 2026, os sites trazem valores **diferentes entre si** (R$ 4.173,37 a R$ 5.638,87; R$ 5.562,28; R$ 5.921,25). | Edital 2014 (reprodução); [Nova Concursos](https://www.novaconcursos.com.br/portal/noticias/agente-administrativo-da-prf-salario/), [Edital Master](https://www.editalmaster.com.br/post/concurso-prf-2026-administrativo-edital-solicitado-para-agente-administrativo-nivel-medio-salario-inicial-de-r-592125-beneficios) | 2014: [HISTÓRICO — EDITAL ANTERIOR] · 2026: [INFORMAÇÃO NÃO CONFIRMADA] |
-| **Lotação** | Nacional (todo o país) em 2014 | Edital 2014 (reprodução) | [HISTÓRICO — EDITAL ANTERIOR] |
+| **Remuneração** | Em 2014: vencimento básico de R$ 2.043,17 mais GDATPRF (Gratificação de Desempenho de Atividade de Apoio Técnico-Administrativo à PRF), variável entre R$ 1.521,60 e R$ 1.902,00. Para 2026, os sites trazem valores **diferentes entre si** (R$ 4.173,37 a R$ 5.638,87; R$ 5.562,28; R$ 5.921,25). | Edital 2014, item 2.1.3 (p. 2); [Nova Concursos](https://www.novaconcursos.com.br/portal/noticias/agente-administrativo-da-prf-salario/), [Edital Master](https://www.editalmaster.com.br/post/concurso-prf-2026-administrativo-edital-solicitado-para-agente-administrativo-nivel-medio-salario-inicial-de-r-592125-beneficios) | 2014: [HISTÓRICO — EDITAL ANTERIOR] · 2026: [INFORMAÇÃO NÃO CONFIRMADA] |
+| **Lotação** | Concurso nacional, com provas em todas as capitais e no DF. O candidato concorria às vagas de **uma única unidade da Federação** (regional). Jornada de 40 horas semanais. | Edital 2014, itens 2.1.4 e 4.4.1 a 4.4.3 (p. 2–3); Anexo IV | [HISTÓRICO — EDITAL ANTERIOR] |
 
 ### Referência do edital anterior
 
@@ -58,10 +60,10 @@ Data da consulta de todas as linhas: **22/09/2026**.
 | Título | Edital de Concurso Público nº 01/2014-PRF (Agente Administrativo) |
 | Órgão | Departamento de Polícia Rodoviária Federal (DPRF) |
 | Banca | FUNCAB |
-| Data do documento | Cabeçalho "Brasília/DF, 7 de [mês cortado no trecho da busca] de 2014". **Conferir no DOU.** |
-| Aplicação da prova | Há registros de provas aplicadas em **25/05/2014** e **22/06/2014** em bancos de questões ([Qconcursos 01](https://www.qconcursos.com/questoes-de-concursos/provas/funcab-2014-prf-agente-administrativo-01), [Qconcursos 02](https://www.qconcursos.com/questoes-de-concursos/provas/funcab-2014-prf-agente-administrativo-02), [PCI](https://www.pciconcursos.com.br/provas/download/agente-administrativo-classe-a-padrao-i-22-06-2014-prf-funcab-2014)). O motivo das duas aplicações não foi verificado. |
-| Link oficial | A busca aponta para um PDF hospedado no portal do MJSP: [gov.br/mj — edital.pdf](https://www.gov.br/mj/pt-br/assuntos/noticias/publicado-edital-para-concurso-da-policia-rodoviaria-federal/edital.pdf/view). **Não consegui abrir. Confirmar se é o edital do cargo administrativo.** |
-| Item/página | Não consegui localizar itens e páginas porque não abri o PDF. |
+| Data do documento | **7 de abril de 2014** (cabeçalho, p. 1). Publicação prevista para **08/04/2014** (Anexo III). Autorização: Portaria MPOG nº 557, de 27/12/2013, DOU de 30/12/2013 (preâmbulo). |
+| Aplicação da prova | O cronograma do edital previa a prova para **25/05/2014** (Anexo III, p. 27). Bancos de questões também registram uma prova de **22/06/2014** ([Qconcursos 01](https://www.qconcursos.com/questoes-de-concursos/provas/funcab-2014-prf-agente-administrativo-01), [Qconcursos 02](https://www.qconcursos.com/questoes-de-concursos/provas/funcab-2014-prf-agente-administrativo-02), [PCI](https://www.pciconcursos.com.br/provas/download/agente-administrativo-classe-a-padrao-i-22-06-2014-prf-funcab-2014)). O edital não explica essa segunda data. **Não verificado.** |
+| Link | Cópia lida: <https://static-imp.imponline.com.br/wp-content/uploads/2020/06/EDITAL-AGENTE-ADM-PRF.pdf> (site de terceiro). Possível cópia no portal do MJSP: [gov.br/mj, edital.pdf](https://www.gov.br/mj/pt-br/assuntos/noticias/publicado-edital-para-concurso-da-policia-rodoviaria-federal/edital.pdf/view) (bloqueado neste ambiente). |
+| Quadro de provas | Item 9.5 (p. 13–14). Detalhado no [edital verticalizado de 2014](edital-2014-verticalizado.md). |
 
 ---
 
@@ -73,33 +75,34 @@ Data da consulta de todas as linhas: **22/09/2026**.
 ### 📜 Histórico (edital anterior, 2014)
 Serve como **mapa provável**, não como garantia. O próximo concurso pode mudar a banca, as disciplinas, o formato das questões, o número de questões e as etapas.
 
-Disciplinas cobradas em 2014, segundo reproduções do edital:
+Quadro de provas de 2014 (item 9.5, p. 13–14), **conferido no PDF**:
 
-- Língua Portuguesa
-- Ética e Conduta Pública
-- Raciocínio Lógico
-- Noções de Direito Constitucional
-- Noções de Direito Administrativo
-- Noções de Administração
-- Noções de Arquivologia
-- Noções de Informática
-- Legislação relativa à PRF
+| Bloco | Disciplina | Questões | Valor de cada | Pontos |
+|---|---|---|---|---|
+| Conhecimentos Básicos | Língua Portuguesa | 12 | **2** | 24 |
+| Conhecimentos Básicos | Ética e Conduta Pública | 6 | 1 | 6 |
+| Conhecimentos Básicos | Raciocínio Lógico | 6 | 1 | 6 |
+| Conhecimentos Específicos | Noções de Direito Constitucional | 6 | 1,5 | 9 |
+| Conhecimentos Específicos | Noções de Direito Administrativo | 6 | 1,5 | 9 |
+| Conhecimentos Específicos | Noções de Administração | 6 | 1,5 | 9 |
+| Conhecimentos Específicos | Noções de Arquivologia | 6 | 1,5 | 9 |
+| Conhecimentos Específicos | Noções de Informática | 6 | 1,5 | 9 |
+| Conhecimentos Específicos | Legislação Relativa à PRF | 6 | 1,5 | 9 |
+| **Total** | | **60** | | **90** |
 
-> ⚠️ A lista acima deve ser conferida no PDF do edital. As leis citadas em 2014 **certamente passaram por alterações** até 2026 e serão estudadas pela redação atual.
+**Regras importantes:**
+- Era eliminado quem fizesse menos de **30% dos pontos**, ou seja, menos de 27 pontos (item 9.6). **Não havia nota mínima por disciplina.**
+- O primeiro critério de desempate era a nota em Conhecimentos Específicos, e o segundo, a nota em Língua Portuguesa (item 12.2).
+- A legislação cobrada era a vigente na data do edital (item 13.13).
+
+O conteúdo programático completo (Anexo I, p. 23–25) está no [edital verticalizado de 2014](edital-2014-verticalizado.md).
+
+> ⚠️ Várias leis citadas em 2014 **mudaram ou foram revogadas**. Um exemplo: a Lei 8.666/1993 foi substituída pela Lei 14.133/2021. Por isso estudamos pela redação atual. Os detalhes estão no edital verticalizado.
 
 ### 🔭 Projeção de estudo (minha recomendação, não é fato)
-Enquanto não houver edital, faz sentido estudar primeiro o que é **comum a quase todo concurso administrativo federal de nível médio** e também aparecia em 2014:
+Enquanto não houver edital novo, a recomendação é usar o edital de 2014 como mapa. A prioridade segue o **peso em pontos** de cada matéria, com a legislação atualizada. A ordem e a prioridade detalhadas estão no [Plano personalizado](etapa-2-plano-personalizado.md).
 
-1. Língua Portuguesa
-2. Raciocínio Lógico
-3. Informática
-4. Direito Constitucional (noções)
-5. Direito Administrativo (noções), incluindo a Lei 8.112/1990 (regime dos servidores federais) e a Lei 9.784/1999 (processo administrativo)
-6. Ética no serviço público (Decreto 1.171/1994)
-7. Arquivologia e Administração (noções)
-8. Legislação institucional da PRF, **deixada para depois**, porque é a matéria com mais chance de mudar
-
-Esse é o ponto de partida mais seguro porque vale para a PRF e para outros concursos parecidos, caso o da PRF atrase.
+Boa parte desse conteúdo (Português, Direito, Arquivologia, Informática) também serve para outros concursos administrativos federais.
 
 ### 🔄 O que pode mudar quando o edital sair
 - Banca e **estilo das questões** (por exemplo, múltipla escolha ou certo/errado)

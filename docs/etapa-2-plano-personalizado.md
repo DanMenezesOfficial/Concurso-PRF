@@ -5,9 +5,14 @@
 | **Título** | PRF ADM 2026: plano personalizado de pré-edital |
 | **Cargo** | Agente Administrativo da Polícia Rodoviária Federal (PRF), nível médio |
 | **Situação** | **PRÉ-EDITAL** (sem autorização nem edital localizados até 22/09/2026) |
-| **Versão** | 1.0 |
-| **Data de atualização** | 22/09/2026 |
-| **Documentos utilizados** | Etapa 1 deste projeto; Edital nº 01/2014-PRF (conteúdo obtido por reproduções e busca, **PDF não lido diretamente**); respostas do diagnóstico |
+| **Versão** | 1.1 |
+| **Data de atualização** | 23/09/2026 |
+| **Documentos utilizados** | Etapa 1 deste projeto; Edital nº 01/2014-PRF, **lido na íntegra** em 23/09/2026 ([edital verticalizado](edital-2014-verticalizado.md)); respostas do diagnóstico |
+
+> 🔄 **Versão 1.1 (23/09/2026):** o plano foi ajustado ao quadro de provas real de 2014. As principais mudanças:
+> - **Português vale 2 pontos por questão.**
+> - **Legislação da PRF sobe** de prioridade e entra na Fase 2.
+> - **Raciocínio Lógico**, que vale 1 ponto por questão, passa para a Fase 3, com carga menor.
 
 > Este é um dos quatro arquivos da Etapa 2:
 > 1. **Plano personalizado** (este arquivo)
@@ -38,75 +43,76 @@ Você **continua o ciclo de onde parou**. Não precisa repor em dobro no dia seg
 
 ---
 
-## 2. Sobre a mensagem do grupo de estudos
+## 2. Sobre a mensagem do grupo de estudos (conferida no edital)
 
-A mensagem diz que a última prova teve **60 questões**: 12 de Língua Portuguesa e 6 de cada uma das outras oito disciplinas.
+A mensagem dizia que a última prova teve 60 questões: 12 de Português e 6 de cada uma das outras oito disciplinas, divididas em Conhecimentos Básicos e Específicos.
 
-**O que confere com o que eu encontrei:**
-- 60 questões de múltipla escolha. [HISTÓRICO — EDITAL ANTERIOR]
-- Português com 12 questões e as demais disciplinas com 6. Isso bate com a cobertura da Folha Dirigida e com a conta: 12 + 8 × 6 = 60.
-- As nove disciplinas listadas batem com a lista que encontrei na Etapa 1.
+**Conferido no edital de 2014 (item 9.5, p. 13–14): as quantidades e a divisão em blocos estão corretas.** [HISTÓRICO — EDITAL ANTERIOR]
 
-**O que ainda não está confirmado:**
-- A divisão em "Conhecimentos Básicos" e "Conhecimentos Específicos" e o **peso** de cada bloco. A prova de 2014 valia **de 0 a 90 pontos** com 60 questões, então havia alguma pontuação diferente de "1 ponto por questão". A mensagem não diz qual era.
-- Um banco de questões classificou **7** questões da 1ª aplicação como Direito Constitucional. Isso pode ser só diferença de classificação do site, mas mostra que a contagem precisa ser conferida no quadro do edital.
+**O que a mensagem não dizia, e que faz diferença, é o valor de cada questão:**
+- cada questão de **Português valia 2 pontos**;
+- as de **Ética e Raciocínio Lógico valiam 1 ponto**;
+- as dos **Conhecimentos Específicos valiam 1,5 ponto**;
+- total: **90 pontos**.
 
-**Classificação:**
-- A distribuição por disciplina fica como **[INFORMAÇÃO NÃO CONFIRMADA]**, provável, até eu conferir o quadro de provas do edital de 2014.
-- Mesmo confirmada, ela seria **[HISTÓRICO — EDITAL ANTERIOR]**. **Não é garantia para o próximo concurso.**
+Isso muda as prioridades, como mostra a seção 4.
 
-**Sobre o anúncio no final:** a mensagem é, na prática, propaganda de curso pago. Isso não a torna falsa, mas não é fonte oficial. Nesta fase de pré-edital, **não é preciso comprar nada**: o plano abaixo funciona com material gratuito.
+**Sobre o anúncio no final:** a mensagem é propaganda de curso pago. O próprio edital de 2014 avisava que a PRF e a banca "não se responsabilizam por quaisquer textos, apostilas, cursos" de terceiros (item 13.17). Nesta fase, **não é preciso comprar nada**.
 
 ---
 
-## 3. Conteúdo provisório de pré-edital
+## 3. Conteúdo de estudo
 
-> ⚠️ Isto **não é** um edital verticalizado oficial. É uma lista de estudo montada a partir de três coisas:
-> - as disciplinas de 2014 **[HISTÓRICO — EDITAL ANTERIOR]**;
-> - os assuntos que aparecem com frequência em concursos administrativos federais de nível médio **[PROJEÇÃO DE ESTUDO]**;
-> - a legislação na **redação atual**, não na de 2014.
->
-> Quando o novo edital sair, esta lista será substituída pelo edital verticalizado oficial.
+A base agora é o **conteúdo programático do edital de 2014**, com a legislação na **redação atual**.
+- O edital verticalizado completo, com checklist, está em [edital-2014-verticalizado.md](edital-2014-verticalizado.md).
+- A divisão em módulos está no [Índice da apostila](indice-da-apostila.md).
 
-A lista completa de assuntos, módulo por módulo, está no [Índice da apostila](indice-da-apostila.md). O resumo por disciplina:
-
-| Disciplina | Questões em 2014 | Base legal principal (redação vigente, a conferir em cada módulo) | Classificação |
+| Disciplina | Questões × valor = pontos (2014) | Normas principais, na redação vigente a conferir | Classificação |
 |---|---|---|---|
-| Língua Portuguesa | 12 | Não se aplica. Redação oficial: Manual de Redação da Presidência da República | Disciplina: [HISTÓRICO] · assuntos: [PROJEÇÃO] |
-| Ética e Conduta Pública | 6 | Decreto 1.171/1994; Decreto 6.029/2007; Lei 8.429/1992, alterada pela Lei 14.230/2021 | [HISTÓRICO] + [PROJEÇÃO] |
-| Raciocínio Lógico | 6 | Não se aplica | [HISTÓRICO] + [PROJEÇÃO] |
-| Direito Constitucional | 6 | Constituição Federal de 1988 (CF/88) | [HISTÓRICO] + [PROJEÇÃO] |
-| Direito Administrativo | 6 | Lei 8.112/1990; Lei 9.784/1999; Lei 14.133/2021 (noções); Lei 12.527/2011 | [HISTÓRICO] + [PROJEÇÃO] |
-| Administração | 6 | Não se aplica | [HISTÓRICO] + [PROJEÇÃO] |
-| Arquivologia | 6 | Lei 8.159/1991 | [HISTÓRICO] + [PROJEÇÃO] |
-| Informática | 6 | Não se aplica. Depende de versão e da banca | [HISTÓRICO] + [PROJEÇÃO] |
-| Legislação relativa à PRF | 6 | CF/88, art. 144; demais normas **a confirmar no edital** | [HISTÓRICO] + [INFORMAÇÃO NÃO CONFIRMADA] |
+| Língua Portuguesa | 12 × 2 = **24** | Manual de Redação da Presidência da República (edição vigente) | [HISTÓRICO] |
+| Ética e Conduta Pública | 6 × 1 = 6 | Decreto 1.171/1994; Decreto 6.029/2007; Lei 8.112/1990 (regime disciplinar); Lei 8.429/1992 **alterada pela Lei 14.230/2021** | [HISTÓRICO] |
+| Raciocínio Lógico | 6 × 1 = 6 | Não se aplica | [HISTÓRICO] |
+| Direito Constitucional | 6 × 1,5 = 9 | Constituição Federal de 1988 (CF/88) | [HISTÓRICO] |
+| Direito Administrativo | 6 × 1,5 = 9 | Lei 8.112/1990; Lei 9.784/1999; **Lei 14.133/2021**, no lugar da Lei 8.666/1993, que foi revogada | [HISTÓRICO] |
+| Administração | 6 × 1,5 = 9 | Não se aplica | [HISTÓRICO] |
+| Arquivologia | 6 × 1,5 = 9 | Não se aplica diretamente | [HISTÓRICO] |
+| Informática | 6 × 1,5 = 9 | Não se aplica. Depende da versão do software. | [HISTÓRICO] |
+| Legislação relativa à PRF | 6 × 1,5 = 9 | CF, art. 144; CTB, art. 20; Decreto 1.655/1995; estrutura regimental (em 2014, Decreto 6.061/2007) | [HISTÓRICO] + [NÃO CONFIRMADA] sobre o decreto que substituiu o 6.061 |
 
-> ⚠️ **Atenção à Lei 8.429/1992 (improbidade):** ela foi amplamente reformada pela Lei 14.230/2021. Material de 2014, ou anterior a 2021, sobre improbidade **está desatualizado**. Esse é um exemplo concreto de por que usamos a redação vigente.
+> ⚠️ **Duas leis de 2014 mudaram muito:**
+> - a **Lei 8.666/1993** foi revogada e substituída pela **Lei 14.133/2021**;
+> - a **Lei 8.429/1992** (improbidade) foi reformada pela **Lei 14.230/2021**.
+>
+> Material antigo sobre esses temas **está desatualizado**.
 
 ---
 
 ## 4. Matriz de prioridade
 
 A prioridade combina quatro critérios:
-1. número de questões em 2014 (provável, não confirmado);
+1. **peso em pontos** no edital de 2014, que agora está confirmado;
 2. sua dificuldade declarada;
-3. **estabilidade**, ou seja, a chance de a matéria continuar no próximo edital;
+3. o **tamanho** do conteúdo, ou seja, o custo de estudar;
 4. o quanto uma matéria serve de base para outras.
 
-> Não há estatística de incidência por assunto nesta matriz. Uma análise desse tipo exigiria amostra de provas da banca, que ainda não existe.
+> Esta matriz não usa estatística de incidência por assunto. Essa análise exigiria uma amostra de provas da futura banca, que ainda não foi definida.
 
-| Prioridade | Disciplina | Por quê | Dificuldade inicial estimada |
-|---|---|---|---|
-| **1 · Alta** | Língua Portuguesa | Tinha o dobro de questões. Interpretação de texto ajuda em todas as matérias. Muito estável. | Média, pelo tempo longe dos estudos |
-| **1 · Alta** | Direito Administrativo | Base de Ética e de Legislação. A Lei 8.112 aparece em várias partes da prova. | **Alta** (declarada) |
-| **1 · Alta** | Direito Constitucional | Base do Direito Administrativo e da Legislação da PRF. | **Alta** (declarada) |
-| **2 · Média-alta** | Ética e Conduta Pública | Conteúdo curto e previsível, com bom retorno pelo esforço. Ótima matéria para **aprender a estudar lei seca**. | Média |
-| **2 · Média** | Raciocínio Lógico | Precisa de prática constante, não de leitura. | Média a alta (matemática depois de muitos anos) |
-| **2 · Média** | Arquivologia | Conteúdo pequeno e técnico, que rende bem. | Baixa a média |
-| **2 · Média** | Informática | Você já usa computador, mas a prova cobra detalhes. | Baixa a média |
-| **3 · Média-baixa** | Administração | Conteúdo amplo, com cobrança muito dependente da banca. | Média |
-| **3 · Baixa agora, alta após o edital** | Legislação relativa à PRF | É o conteúdo **mais incerto**. Estudar agora corre o risco de ser trabalho perdido. | Média |
+**Três regras do edital de 2014 que orientam a estratégia:**
+- Era eliminado quem fizesse menos de **30% dos pontos**, ou seja, menos de 27 de 90 (item 9.6).
+- **Não havia nota mínima por matéria.** Você pode ir melhor em umas e pior em outras.
+- O 1º critério de desempate era a nota nos **Conhecimentos Específicos**, e o 2º, a nota em **Português** (item 12.2).
+
+| Prioridade | Disciplina | Peso em 2014 | Por quê | Dificuldade inicial estimada |
+|---|---|---|---|---|
+| **1 · Máxima** | Língua Portuguesa | 24 pts (26,7%) | Vale quase o triplo de cada matéria específica e é o 2º critério de desempate. | Média, pelo tempo longe dos estudos |
+| **2 · Alta** | Direito Administrativo | 9 pts | Conteúdo grande. Também cobre parte de Ética (regime disciplinar da Lei 8.112 e improbidade). | **Alta** (declarada) |
+| **2 · Alta** | Direito Constitucional | 9 pts | Base do Direito Administrativo e da Legislação da PRF. | **Alta** (declarada) |
+| **2 · Alta** | Legislação relativa à PRF | 9 pts | **São só 4 normas curtas para 9 pontos: o melhor retorno por hora de estudo.** | Média |
+| **3 · Média** | Arquivologia | 9 pts | Conteúdo pequeno e técnico, que rende bem. | Baixa a média |
+| **3 · Média** | Informática | 9 pts | Você já usa computador, mas a prova cobra detalhes. | Baixa a média |
+| **3 · Média** | Administração | 9 pts | Conteúdo amplo, principalmente gestão de pessoas, e cobrança dependente da banca. | Média |
+| **4 · Média-baixa** | Ética e Conduta Pública | 6 pts | Vale pouco, mas é curta e se sobrepõe ao Direito Administrativo. Serve para **aprender a estudar lei seca**. | Média |
+| **4 · Média-baixa** | Raciocínio Lógico | 6 pts | Vale pouco e exige muita prática. Com o seu tempo, entra depois e com carga menor. | Média a alta (matemática depois de muitos anos) |
 
 ---
 
@@ -216,31 +222,37 @@ Você **não** começa com as nove matérias. Elas entram em fases.
 `LP → ET → DC → LP → DC`
 
 **Fase 2 (semanas 4 a 8): ciclo de 8 blocos**
-`LP → DA → RL → DC → LP → ET → DA → RL`
+`LP → DA → DC → LG → LP → DA → ET → DC`
 
 **Fase 3 (semanas 9 a 14): ciclo de 12 blocos**
-`LP → DA → IN → DC → RL → AR → LP → DA → AD → DC → ET → REV`
+`LP → DA → IN → DC → AR → LP → AD → DA → LG → DC → RL/ET → REV`
 
-**Fase 4 (semanas 15 a 19): ciclo de 12 blocos, com mais questões**
-`LP → DA → IN → DC → RL → AR → LG → DA → AD → DC → ET → REV`
+O bloco **RL/ET** alterna a cada volta do ciclo: numa volta é Raciocínio Lógico, na seguinte é Ética.
 
-**Fase 5 (semanas 20 a 24):** o ciclo da Fase 4 continua, mas cerca de metade dos blocos vira **lacunas** (os assuntos com mais erros no caderno) e **simulados**.
+**Fase 4 (semanas 15 a 19): o mesmo ciclo de 12 blocos, com mais questões**
+Quando os 4 módulos de LG terminarem, o bloco de LG passa a alternar entre revisão de LG e Informática.
+
+**Fase 5 (semanas 20 a 24):** o ciclo continua, mas cerca de metade dos blocos vira **lacunas** (os assuntos com mais erros no caderno) e **simulados**.
 
 ### Tabela por disciplina: ciclo completo (Fases 3 e 4)
-Na semana sustentável, cerca de 5 a 6 blocos por semana, um ciclo de 12 blocos leva **mais ou menos 2 semanas**. A coluna "média semanal" é aproximada.
+Na semana sustentável, com cerca de 5 a 6 blocos por semana, um ciclo de 12 blocos leva **mais ou menos 2 semanas**. A coluna "média semanal" é aproximada.
 
-| Disciplina | Prioridade | Blocos por ciclo | Média semanal | Teoria / questões / revisão | Dificuldade inicial | Fonte do conteúdo |
-|---|---|---|---|---|---|---|
-| LP | Alta | 2 | cerca de 60 min | 30 / 50 / 20 | Média | Edital 2014 [HIST.] + projeção |
-| DA | Alta | 2 | cerca de 60 min | 45 / 35 / 20 | Alta | Edital 2014 [HIST.] + legislação vigente |
-| DC | Alta | 2 | cerca de 60 min | 45 / 35 / 20 | Alta | Edital 2014 [HIST.] + CF/88 vigente |
-| ET | Média-alta | 1 | cerca de 30 min | 40 / 40 / 20 | Média | Edital 2014 [HIST.] + decretos vigentes |
-| RL | Média | 1 | cerca de 30 min | 30 / 55 / 15 | Média-alta | Edital 2014 [HIST.] + projeção |
-| IN | Média | 1 | cerca de 30 min | 40 / 40 / 20 | Baixa-média | Edital 2014 [HIST.] + projeção |
-| AR | Média | 1 | cerca de 30 min | 50 / 30 / 20 | Baixa-média | Edital 2014 [HIST.] + Lei 8.159/1991 |
-| AD | Média-baixa | 1 | cerca de 30 min | 50 / 30 / 20 | Média | Edital 2014 [HIST.] + projeção |
-| LG (a partir da Fase 4) | Baixa até o edital | 1 | cerca de 30 min | 50 / 30 / 20 | Média | [NÃO CONFIRMADA] até o edital |
-| REV | Não se aplica | 1 | cerca de 30 min | 0 / 70 / 30 | Não se aplica | Caderno de erros e questões mistas |
+| Disciplina | Prioridade | Pontos em 2014 | Blocos por ciclo | Média semanal | Teoria / questões / revisão | Dificuldade inicial | Fonte do conteúdo |
+|---|---|---|---|---|---|---|---|
+| LP | Máxima | 24 | 2 | cerca de 60 min | 30 / 50 / 20 | Média | Edital 2014, Anexo I [HIST.] |
+| DA | Alta | 9 | 2 | cerca de 60 min | 45 / 35 / 20 | Alta | Edital 2014 [HIST.] + legislação vigente |
+| DC | Alta | 9 | 2 | cerca de 60 min | 45 / 35 / 20 | Alta | Edital 2014 [HIST.] + CF/88 vigente |
+| LG | Alta | 9 | 1 | cerca de 30 min | 45 / 35 / 20 | Média | Edital 2014 [HIST.] + normas vigentes |
+| AR | Média | 9 | 1 | cerca de 30 min | 50 / 30 / 20 | Baixa-média | Edital 2014 [HIST.] |
+| IN | Média | 9 | 1 | cerca de 30 min | 40 / 40 / 20 | Baixa-média | Edital 2014 [HIST.] |
+| AD | Média | 9 | 1 | cerca de 30 min | 50 / 30 / 20 | Média | Edital 2014 [HIST.] |
+| ET | Média-baixa | 6 | ½ (alterna com RL) | cerca de 15 min, mais o que vem do DA | 40 / 40 / 20 | Média | Edital 2014 [HIST.] + decretos vigentes |
+| RL | Média-baixa | 6 | ½ (alterna com ET) | cerca de 15 min | 30 / 55 / 15 | Média-alta | Edital 2014 [HIST.] |
+| REV | Não se aplica | Não se aplica | 1 | cerca de 30 min | 0 / 70 / 30 | Não se aplica | Caderno de erros e questões mistas |
+
+**Por que Direito Administrativo e Constitucional têm 2 blocos e as outras específicas têm 1, se todas valem 9 pontos?** Porque têm muito mais conteúdo, são a sua maior dificuldade e sustentam Ética e Legislação da PRF.
+
+**Por que Raciocínio Lógico ficou com tão pouco?** Porque vale só 6 pontos e exige muita prática para render. Com cerca de 5 horas por semana, cada hora rende mais em Português ou nas específicas. **Isso não significa abandonar a matéria:** ela continua no ciclo, e o plano pode ser revisto se ela se mostrar fácil para você.
 
 > Pode parecer pouco tempo por matéria, e é. Com cerca de 5 horas por semana, **constância pesa mais que volume**. Um bloco bem feito, com recordação, questões e correção, rende mais que duas horas lendo sem testar.
 
@@ -264,7 +276,7 @@ A explicação completa está no [Método de estudo](etapa-2-metodo-de-estudo.md
 
 | Fase | Questões por sessão normal | Formato | Extra |
 |---|---|---|---|
-| 1 | 5 a 8 | Múltipla escolha (formato de 2014) | Nenhum. Foco em aprender a corrigir. |
+| 1 | 5 a 8 | Múltipla escolha, 5 alternativas (formato de 2014, item 9.1.1) | Nenhum. Foco em aprender a corrigir. |
 | 2 | 8 a 12 | Múltipla escolha, com algumas de certo/errado | 1 miniteste de 10 questões a cada 2 semanas (sexta ou sábado) |
 | 3 | 10 a 15 | Cerca de 75% múltipla escolha e 25% certo/errado | Miniteste semanal de 10 a 15 questões mistas |
 | 4 | 15 a 20 | Idem | Miniteste semanal de 20 questões, cronometrado |
@@ -272,17 +284,17 @@ A explicação completa está no [Método de estudo](etapa-2-metodo-de-estudo.md
 
 > **Por que treinar dois formatos?** A banca de 2026 **não está definida**. A prova de 2014 foi de múltipla escolha. Algumas bancas federais usam certo/errado. Treinar os dois evita surpresa. Quando o edital sair, o treino passa a ser 100% no formato oficial.
 
-> 🔒 **Reserve as provas oficiais de 2014** (1ª e 2ª aplicação, 60 questões cada) para os simulados da Fase 5. Não use essas questões no treino do dia a dia, senão elas perdem o valor de medição.
+> 🔒 **Reserve as provas oficiais de 2014** (versões "01" e "02", 60 questões cada) para os simulados da Fase 5. Não use essas questões no treino do dia a dia, senão elas perdem o valor de medição.
 
 ### Simulados previstos
 
 | Simulado | Quando | Conteúdo | Tempo | Formato |
 |---|---|---|---|---|
-| S0: miniteste diagnóstico | Fim da Fase 2 (semana 8) | 20 questões autorais de LP, ET, DC, DA e RL | 40 min | Questões autorais criadas para estudo |
-| S1: simulado parcial | Fim da Fase 3 (semana 14) | 30 questões autorais de todas as matérias já iniciadas | 60 min, em 1 sessão | Questões autorais criadas para estudo |
-| S2: prova PRF 2014, 1ª aplicação | Semana 20 ou 21 | Prova real, 60 questões | Cerca de 3h no sábado, **ou** dividida em 3 sessões de 20 questões | Prova oficial (FUNCAB, 2014) |
-| S3: simulado autoral completo | Semana 22 ou 23 | 60 questões autorais na proporção de 2014 | Igual ao S2 | Questões autorais criadas para estudo |
-| S4: prova PRF 2014, 2ª aplicação | Semana 24 | Prova real, 60 questões | Igual ao S2 | Prova oficial (FUNCAB, 2014) |
+| S0: miniteste diagnóstico | Fim da Fase 2 (semana 8) | 20 questões autorais de LP, ET, DC, DA e LG | 40 min | Questões autorais criadas para estudo |
+| S1: simulado parcial | Fim da Fase 3 (semana 14) | 30 questões autorais de todas as matérias já iniciadas, com pontuação pelos pesos de 2014 | 60 min, em 1 sessão | Questões autorais criadas para estudo |
+| S2: prova PRF 2014, versão "01" | Semana 20 ou 21 | Prova real, 60 questões, valendo 90 pontos | Na prova real eram 3h30 (item 8.22). Aqui: um sábado, **ou** 3 sessões de 20 questões | Prova oficial (FUNCAB, 2014) |
+| S3: simulado autoral completo | Semana 22 ou 23 | 60 questões autorais no quadro de 2014 (valendo 90 pontos) | Igual ao S2 | Questões autorais criadas para estudo |
+| S4: prova PRF 2014, versão "02" | Semana 24 | Prova real, 60 questões. **Antes, vou verificar se não é a mesma prova com outra ordem de gabarito** (o item 9.8.1 previa provas de mesmo teor com gabaritos diferentes). Se for igual, vira um simulado autoral. | Igual ao S2 | Prova oficial (FUNCAB, 2014) |
 
 Para cada simulado eu vou entregar: finalidade, gabarito, comentários, análise por disciplina, classificação dos erros e plano de recuperação.
 
@@ -304,10 +316,10 @@ As metas são de **processo** (o que você faz), não de nota. Cada mês tem uma
 
 | Mês | Período | Meta mínima | Meta boa |
 |---|---|---|---|
-| **1** | 28/09 a 25/10/2026 | 12 sessões no mês, de qualquer tipo. Caderno de erros criado e em uso. | 18 sessões ou mais. Módulos da Fase 1 concluídos e DA e RL iniciados. |
+| **1** | 28/09 a 25/10/2026 | 12 sessões no mês, de qualquer tipo. Caderno de erros criado e em uso. | 18 sessões ou mais. Módulos da Fase 1 concluídos, DA e LG iniciados. |
 | **2** | 26/10 a 22/11/2026 | 12 sessões. Revisão de 7 dias feita em pelo menos 2 semanas. | 18 sessões ou mais. Cerca de 150 questões no mês. S0 feito. |
-| **3** | 23/11 a 20/12/2026 | 12 sessões. IN, AR e AD iniciadas. | Ciclo de 12 blocos girando. Primeira revisão de 30 dias feita. |
-| **4** | 21/12/2026 a 17/01/2027 | **Mês de festas: semana mínima é o esperado.** 8 sessões. | S1 feito. LG iniciada. |
+| **3** | 23/11 a 20/12/2026 | 12 sessões. IN, AR, AD e RL iniciadas. | Ciclo de 12 blocos girando. Primeira revisão de 30 dias feita. |
+| **4** | 21/12/2026 a 17/01/2027 | **Mês de festas: semana mínima é o esperado.** 8 sessões. | S1 feito. LG1 a LG4 concluídos. |
 | **5** | 18/01 a 14/02/2027 | 12 sessões. | Cerca de 250 questões no mês. S2 feito. |
 | **6** | 15/02 a 14/03/2027 | 12 sessões. | S3 e S4 feitos. Balanço completo para o próximo ciclo. |
 
@@ -329,9 +341,9 @@ As metas são de **processo** (o que você faz), não de nota. Cada mês tem uma
 | Fase | Semanas | Datas | Objetivo | Matérias ativas |
 |---|---|---|---|---|
 | **1. Adaptação e método** | 1 a 3 | 28/09 a 18/10/2026 | Criar o hábito, aprender a sessão, o caderno de erros e a lei seca | LP, ET, DC |
-| **2. Construção da base** | 4 a 8 | 19/10 a 22/11/2026 | Bases de Direito e de lógica | + DA, RL |
-| **3. Ampliação** | 9 a 14 | 23/11/2026 a 03/01/2027 | Cobrir as demais matérias | + IN, AR, AD |
-| **4. Consolidação por questões** | 15 a 19 | 04/01 a 07/02/2027 | Mais questões, menos teoria | + LG |
+| **2. Construção da base** | 4 a 8 | 19/10 a 22/11/2026 | Bases de Direito e Legislação da PRF | + DA, LG |
+| **3. Ampliação** | 9 a 14 | 23/11/2026 a 03/01/2027 | Cobrir as demais matérias | + IN, AR, AD, RL |
+| **4. Consolidação por questões** | 15 a 19 | 04/01 a 07/02/2027 | Mais questões, menos teoria | Todas |
 | **5. Simulados e lacunas** | 20 a 24 | 08/02 a 14/03/2027 | Medir e corrigir o que falta | Todas |
 | **6. Pós-edital e reta final** | Quando o edital sair | A definir | Edital verticalizado oficial e cronograma até a prova | As do edital |
 

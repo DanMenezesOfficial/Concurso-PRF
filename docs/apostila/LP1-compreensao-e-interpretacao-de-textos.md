@@ -6,9 +6,9 @@
 | **Assunto** | Compreensão e interpretação de textos |
 | **Cargo** | Agente Administrativo da Polícia Rodoviária Federal (PRF) |
 | **Situação** | PRÉ-EDITAL |
-| **Versão** | 1.0 |
+| **Versão** | 1.1 |
 | **Data de atualização** | 23/09/2026 |
-| **Documentos utilizados** | Edital nº 01/2014-PRF, conteúdo de Língua Portuguesa (lista obtida em resultado de busca, **PDF não lido diretamente**). Não há legislação aplicável a este assunto. |
+| **Documentos utilizados** | Edital nº 01/2014-PRF, Anexo I (Língua Portuguesa, item 1, p. 23) e item 9.5 (quadro de provas), **lido na íntegra**. Não há legislação aplicável a este assunto. |
 | **Fase do ciclo** | Fase 1, primeiro bloco de LP |
 
 ---
@@ -29,23 +29,14 @@
 
 ## 1. Base no edital
 
-**No edital de 2014:** segundo um trecho de resultado de busca, o conteúdo de Língua Portuguesa do Edital nº 01/2014-PRF começa com **"Compreensão e interpretação de textos"**. **[INFORMAÇÃO NÃO CONFIRMADA]** O trecho não foi conferido no PDF do edital.
+**No edital de 2014:** "Compreensão e interpretação de textos" é o **item 1** do conteúdo de Língua Portuguesa (Edital nº 01/2014-PRF, Anexo I, p. 23). **[HISTÓRICO — EDITAL ANTERIOR]**
 
-A mesma busca trouxe a lista completa de assuntos de Português. Ela confere com os módulos LP1 a LP13 do índice:
-- compreensão e interpretação de textos;
-- tipologia textual;
-- ortografia oficial;
-- acentuação gráfica;
-- emprego das classes de palavras;
-- emprego do sinal indicativo de crase;
-- sintaxe da oração e do período;
-- pontuação;
-- concordância nominal e verbal;
-- regência nominal e verbal;
-- significação das palavras;
-- redação de correspondências oficiais (Manual de Redação da Presidência da República).
+**Peso:** em 2014, Língua Portuguesa teve **12 questões valendo 2 pontos cada**, ou seja, 24 dos 90 pontos da prova (item 9.5). Era também o **2º critério de desempate** (item 12.2).
 
-**Por que estudar primeiro:** interpretação de texto aparece em praticamente todos os concursos de nível médio **[PROJEÇÃO DE ESTUDO]**. Além disso, ler bem o enunciado ajuda em **todas** as matérias, inclusive Direito.
+**Por que estudar primeiro:**
+- é o primeiro item da matéria de maior peso;
+- ler bem o enunciado ajuda em **todas** as matérias, inclusive Direito;
+- interpretação aparece em praticamente todo concurso de nível médio **[PROJEÇÃO DE ESTUDO]**.
 
 ---
 
@@ -548,9 +539,9 @@ Considere o módulo **dominado** quando conseguir marcar tudo:
 
 ## 22. Fontes
 
-- **Edital nº 01/2014-PRF (Agente Administrativo):** conteúdo de Língua Portuguesa, item "Compreensão e interpretação de textos". Informação obtida em resultado de busca em 23/09/2026. **[INFORMAÇÃO NÃO CONFIRMADA]** O PDF não pôde ser aberto; o link que a busca aponta no portal do Ministério da Justiça é <https://www.gov.br/mj/pt-br/assuntos/noticias/publicado-edital-para-concurso-da-policia-rodoviaria-federal/edital.pdf/view>.
+- **Edital nº 01/2014-PRF (Agente Administrativo)**, de 7 de abril de 2014: Anexo I, Língua Portuguesa, item 1 (p. 23), e item 9.5 (quadro de provas, p. 13–14). Lido na íntegra em 23/09/2026 a partir de cópia hospedada por terceiro (<https://static-imp.imponline.com.br/wp-content/uploads/2020/06/EDITAL-AGENTE-ADM-PRF.pdf>). **[HISTÓRICO — EDITAL ANTERIOR]**
 - **Teoria:** os conceitos deste módulo (compreensão, interpretação, pressuposto, subentendido, modalização) são noções consolidadas de linguística textual e de leitura, ensinadas nos livros didáticos de Língua Portuguesa do ensino médio. Não há norma oficial ou legislação que as regule.
 - **Textos e questões:** autorais, criados para este módulo.
 
 ## 23. Data de atualização
-**23/09/2026**, versão 1.0.
+**23/09/2026**, versão 1.1 (base no edital conferida no PDF).

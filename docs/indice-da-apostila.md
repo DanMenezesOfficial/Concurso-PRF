@@ -5,14 +5,18 @@
 | **Título** | PRF ADM 2026: índice da apostila |
 | **Cargo** | Agente Administrativo da Polícia Rodoviária Federal (PRF) |
 | **Situação** | **PRÉ-EDITAL** |
-| **Versão** | 1.0 |
-| **Data de atualização** | 22/09/2026 |
-| **Documentos utilizados** | Disciplinas do Edital nº 01/2014-PRF [HISTÓRICO, lido por reproduções]; assuntos projetados a partir de concursos administrativos federais de nível médio [PROJEÇÃO DE ESTUDO] |
+| **Versão** | 2.0 |
+| **Data de atualização** | 23/09/2026 |
+| **Documentos utilizados** | Edital nº 01/2014-PRF, Anexo I (conteúdo programático) e item 9.5 (quadro de provas), **lido na íntegra**. Ver [edital-2014-verticalizado.md](edital-2014-verticalizado.md). |
 
 > ⚠️ **Como ler este índice**
-> - As **disciplinas** vêm do edital de 2014 **[HISTÓRICO — EDITAL ANTERIOR]**.
-> - A **lista de assuntos dentro de cada disciplina** é **[PROJEÇÃO DE ESTUDO]**. Ela ainda não foi conferida com o conteúdo programático oficial de 2014, porque não consegui abrir o PDF. Quando o edital de 2014 ou o novo edital forem conferidos, cada módulo recebe a marcação ✅ mantido, 🆕 novo ou ❌ retirado.
-> - A coluna **Fase** indica quando o módulo entra no ciclo.
+> - **Versão 2.0:** o índice foi refeito para seguir **o conteúdo programático do edital de 2014**. Cada módulo indica o item do edital que cobre. **[HISTÓRICO — EDITAL ANTERIOR]**
+> - Módulos marcados **[PROJEÇÃO]** não constavam em 2014. Eles só entram se sobrar tempo ou se o novo edital pedir.
+> - A legislação é estudada na **redação atual**, e não na de 2014.
+> - Quando o novo edital sair, cada módulo recebe a marcação ✅ mantido, 🆕 novo ou ❌ retirado.
+> - A coluna **Fase** indica quando o módulo entra no ciclo (veja o [Plano personalizado](etapa-2-plano-personalizado.md)).
+
+> 📌 **Sobre o volume:** são 82 módulos para cerca de 130 blocos de estudo no primeiro ciclo de 24 semanas. Alguns módulos pedem 2 blocos. **É provável que nem tudo seja visto no primeiro ciclo, e isso está previsto.** A ordem segue o peso de cada matéria, e o que faltar entra no ciclo seguinte.
 
 ---
 
@@ -20,7 +24,7 @@
 
 Todo módulo segue o mesmo roteiro:
 1. Disciplina e assunto
-2. Base no edital ou justificativa de pré-edital
+2. Base no edital
 3. Objetivos de aprendizagem
 4. Explicação simples
 5. Explicação técnica
@@ -36,7 +40,7 @@ Todo módulo segue o mesmo roteiro:
 15. Mapa de revisão
 16. Perguntas de recordação
 17. Questões básicas, intermediárias e avançadas (autorais ou com origem verificada)
-18. Gabarito (em seção separada, no fim)
+18. Gabarito, em seção separada no fim
 19. Comentários de todas as alternativas
 20. Erros para registrar
 21. Flashcards selecionados
@@ -54,153 +58,146 @@ Todo módulo segue o mesmo roteiro:
 
 ---
 
-## Língua Portuguesa (LP)
-*12 questões em 2014 [HISTÓRICO, a conferir no quadro do edital]*
+## Língua Portuguesa (LP): 12 questões × 2 pontos = 24 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| LP1 | Compreensão e interpretação de textos: ✅ [pronto](apostila/LP1-compreensao-e-interpretacao-de-textos.md) | 1 | 1 |
+| LP2 | Tipologia textual | 2 | 1 |
+| LP3 | Ortografia oficial e acentuação gráfica | 3 e 4 | 1 |
+| LP4 | Emprego das classes de palavras | 5 | 2 |
+| LP5 | Pontuação | 8 | 2 |
+| LP6 | Concordância nominal e verbal | 9 | 2 |
+| LP7 | Regência nominal e verbal e crase | 6 e 10 | 3 |
+| LP8 | Colocação pronominal | Apoio aos itens 5 e 7 | 3 |
+| LP9 | Sintaxe da oração e do período | 7 | 3 |
+| LP10 | Significação das palavras | 11 | 4 |
+| LP11 | Coesão e coerência: pronomes e conectivos | Apoio ao item 1 | 4 |
+| LP12 | Reescrita de frases e equivalência de sentido | Apoio aos itens 1 e 11 | 4 |
+| LP13 | Redação oficial: Manual de Redação da Presidência da República (edição vigente) | 12 | 4 |
 
-> Em 23/09/2026, um resultado de busca trouxe a lista de assuntos de Português do edital de 2014: compreensão e interpretação de textos; tipologia textual; ortografia oficial; acentuação gráfica; emprego das classes de palavras; crase; sintaxe da oração e do período; pontuação; concordância nominal e verbal; regência nominal e verbal; significação das palavras; redação de correspondências oficiais. Ela confere com os módulos abaixo. **[INFORMAÇÃO NÃO CONFIRMADA]**: o trecho não foi conferido no PDF.
+## Ética e Conduta Pública (ET): 6 questões × 1 ponto = 6 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| ET1 | Ética e moral; princípios e valores; ética e democracia; ética e função pública | 1 a 4 | 1 |
+| ET2 | Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto 1.171/1994) | 5.1 | 1 |
+| ET3 | Sistema de Gestão da Ética do Poder Executivo Federal (Decreto 6.029/2007) | 5.1 | 2 |
+| ET4 | Improbidade administrativa: Lei 8.429/1992 **na redação da Lei 14.230/2021**. Serve também para Direito Administrativo, item 5.2. | 5.3 | 3 |
+| (DA9) | Regime disciplinar da Lei 8.112/1990: estudado no **DA9** | 5.2 | 4 |
 
-| Código | Módulo | Fase |
-|---|---|---|
-| LP1 | Compreensão e interpretação de textos: ✅ [pronto](apostila/LP1-compreensao-e-interpretacao-de-textos.md) | 1 |
-| LP2 | Tipologia textual e gêneros | 1 |
-| LP3 | Ortografia e acentuação (Acordo Ortográfico vigente) | 1 |
-| LP4 | Classes de palavras (foco no que a prova cobra) | 2 |
-| LP5 | Pontuação, com ênfase no uso da vírgula | 2 |
-| LP6 | Concordância verbal e nominal | 2 |
-| LP7 | Regência verbal e nominal e crase | 3 |
-| LP8 | Colocação pronominal | 3 |
-| LP9 | Sintaxe: termos da oração, coordenação e subordinação | 3 |
-| LP10 | Semântica: sinônimos, antônimos, sentido no contexto | 4 |
-| LP11 | Coesão e coerência: pronomes e conectivos | 4 |
-| LP12 | Reescrita de frases e equivalência de sentido | 4 |
-| LP13 | Redação oficial: noções do Manual de Redação da Presidência da República | 4 |
+## Raciocínio Lógico (RL): 6 questões × 1 ponto = 6 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| RL1 | Estruturas lógicas; proposições simples e compostas; conectivos | 1 e 3.1 | 3 |
+| RL2 | Tabelas-verdade, tautologia e contradição | 3.2 | 3 |
+| RL3 | Equivalências e Leis de De Morgan (negações) | 3.3 e 3.4 | 3 |
+| RL4 | Lógica de primeira ordem (quantificadores) e diagramas lógicos | 3.5 e 4 | 4 |
+| RL5 | Lógica de argumentação: analogias, inferências, deduções e conclusões | 2 | 4 |
+| RL6 | Operações com conjuntos | 6 | 4 |
+| RL7 | Problemas aritméticos: razão, proporção, porcentagem, regra de três | 7 | 5 |
+| RL8 | Problemas geométricos e matriciais. O sentido de "matriciais" varia entre bancas, então o módulo cobre matrizes numéricas e quadros de associação lógica. | 7 | 5 |
+| RL9 | Princípios de contagem | 5 | 5 |
+| RL10 | Probabilidade | 5 | 5 |
 
-## Ética e Conduta Pública (ET)
-*6 questões em 2014 [HISTÓRICO]*
+## Noções de Direito Constitucional (DC): 6 questões × 1,5 ponto = 9 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| DC1 | Constituição: conceito, classificações e princípios fundamentais (arts. 1º a 4º) | 1 | 1 |
+| DC2 | Direitos e deveres individuais e coletivos (art. 5º), parte 1 | 2 | 1 |
+| DC3 | Art. 5º, parte 2: garantias e remédios constitucionais | 2 | 2 |
+| DC4 | Direitos sociais (arts. 6º a 11) | 2 | 2 |
+| DC5 | Nacionalidade, direitos políticos e partidos políticos (arts. 12 a 17) | 2 | 2 |
+| DC6 | Organização político-administrativa: União, estados, DF, municípios e territórios | 3 | 3 |
+| DC7 | Administração pública: disposições gerais e servidores públicos (arts. 37 a 41) | 4 | 3 |
+| DC8 | Poder Legislativo: Congresso Nacional, Câmara, Senado, deputados e senadores | 5 | 3 |
+| DC9 | Poder Executivo: atribuições do Presidente da República e dos ministros de Estado | 6 | 4 |
+| DC10 | Poder Judiciário: disposições gerais, órgãos, competências e CNJ | 7 | 4 |
+| DC11 | Funções essenciais à justiça: Ministério Público, advocacia e defensoria pública | 8 | 4 |
 
-| Código | Módulo | Fase |
-|---|---|---|
-| ET1 | Ética, moral e valores no serviço público: conceitos | 1 |
-| ET2 | Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto 1.171/1994) | 1 |
-| ET3 | Sistema de Gestão da Ética do Poder Executivo Federal (Decreto 6.029/2007) | 2 |
-| ET4 | Improbidade administrativa: Lei 8.429/1992 **na redação dada pela Lei 14.230/2021** | 3 |
-| ET5 | Conflito de interesses (Lei 12.813/2013) **[PROJEÇÃO, incluir só se o edital pedir]** | 4 |
+## Noções de Direito Administrativo (DA): 6 questões × 1,5 ponto = 9 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| DA1 | Estado, governo e administração pública: noções de base | Apoio | 2 |
+| DA2 | Princípios básicos da administração | 5 | 2 |
+| DA3 | Administração direta e indireta, centralizada e descentralizada | 7 | 2 |
+| DA4 | Poderes da administração: vinculado, discricionário, hierárquico, disciplinar e regulamentar | 4 | 2 |
+| DA5 | Ato administrativo I: conceito, requisitos e atributos | 1 | 3 |
+| DA6 | Ato administrativo II: classificação, espécies, invalidação, anulação, revogação e prescrição | 1, 1.1 e 1.2 | 3 |
+| DA7 | Agentes públicos e Lei 8.112/1990 I: investidura, provimento, posse, exercício e vacância | 3 e 8 | 3 |
+| DA8 | Lei 8.112/1990 II: direitos, vantagens e deveres dos servidores | 3.1 e 8 | 3 |
+| DA9 | Lei 8.112/1990 III: regime disciplinar (deveres, proibições, acumulação, responsabilidades, penalidades) e PAD. Serve também para Ética, item 5.2. | 8 | 4 |
+| DA10 | Processo administrativo federal (Lei 9.784/1999) | 3.2 e 10 | 4 |
+| DA11 | Controle da administração: administrativo, legislativo e judiciário | 2 | 4 |
+| DA12 | Responsabilidade objetiva da administração | 5.1 | 4 |
+| DA13 | Serviços públicos: conceito, classificação, regulamentação, formas e competência de prestação | 6 | 5 |
+| DA14 | Licitações e contratos: noções da **Lei 14.133/2021**, que substituiu a Lei 8.666/1993 citada em 2014 | 9 🔄 | 5 |
+| (ET4) | Improbidade administrativa: estudada no **ET4** | 5.2 | 3 |
 
-## Raciocínio Lógico (RL)
-*6 questões em 2014 [HISTÓRICO]*
+## Noções de Administração (AD): 6 questões × 1,5 ponto = 9 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| AD1 | Evolução da administração pública e reforma do Estado: modelos patrimonialista, burocrático e gerencial | 1 | 3 |
+| AD2 | Gestão pública e gestão privada; excelência nos serviços públicos e na gestão | 1.1 a 1.3 | 3 |
+| AD3 | Gestão de pessoas no setor público: conceitos, práticas de RH e planejamento estratégico de RH | 2.1 e 2.2 | 3 |
+| AD4 | Gestão de desempenho; gestão por competências e gestão do conhecimento | 2.3 e 2.5 | 3 |
+| AD5 | Comportamento, clima e cultura organizacional; qualidade de vida no trabalho | 2.4 e 2.6 | 4 |
+| AD6 | Organizações formais: tipos de estrutura e critérios de departamentalização | 2.7 | 4 |
+| AD7 | Liderança, motivação e satisfação no trabalho | 2.8 | 4 |
+| AD8 | Recrutamento e seleção; análise e descrição de cargos | 2.9 e 2.10 | 5 |
+| AD9 | Educação, treinamento e desenvolvimento; educação corporativa; educação a distância | 3 | 5 |
 
-| Código | Módulo | Fase |
-|---|---|---|
-| RL1 | Proposições e conectivos lógicos | 2 |
-| RL2 | Tabela-verdade, tautologia e contradição | 2 |
-| RL3 | Equivalências e negações (inclusive "todo", "algum", "nenhum") | 2 |
-| RL4 | Diagramas lógicos e silogismos | 3 |
-| RL5 | Argumentação lógica: validade | 3 |
-| RL6 | Sequências e padrões | 3 |
-| RL7 | Problemas aritméticos: razão, proporção, porcentagem, regra de três | 4 |
-| RL8 | Princípios de contagem | 4 |
-| RL9 | Probabilidade básica | 4 |
+## Noções de Arquivologia (AR): 6 questões × 1,5 ponto = 9 pontos
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| AR1 | Arquivística: princípios e conceitos, incluindo a teoria das três idades | 1 | 3 |
+| AR2 | Gestão de documentos | 2 | 3 |
+| AR3 | Protocolo: recebimento, registro, distribuição, tramitação e expedição | 2.1 | 3 |
+| AR4 | Classificação de documentos de arquivo | 2.2 | 3 |
+| AR5 | Arquivamento e ordenação: métodos | 2.3 | 4 |
+| AR6 | Tabela de temporalidade | 2.4 | 4 |
+| AR7 | Acondicionamento e armazenamento | 3 | 4 |
+| AR8 | Preservação e conservação | 4 | 4 |
 
-## Direito Constitucional (DC)
-*6 questões em 2014 [HISTÓRICO]*
+## Noções de Informática (IN): 6 questões × 1,5 ponto = 9 pontos
+*Conteúdo sensível a versão de software: cada módulo separa princípios duradouros de detalhes de versão.*
 
-| Código | Módulo | Fase |
-|---|---|---|
-| DC1 | Constituição: conceito e princípios fundamentais (arts. 1º a 4º) | 1 |
-| DC2 | Direitos e deveres individuais e coletivos (art. 5º), parte 1 | 1 |
-| DC3 | Art. 5º, parte 2: remédios constitucionais | 2 |
-| DC4 | Direitos sociais (arts. 6º a 11) | 2 |
-| DC5 | Nacionalidade e direitos políticos (arts. 12 a 16) | 3 |
-| DC6 | Organização do Estado: noções (arts. 18 a 33) | 3 |
-| DC7 | Administração Pública na Constituição (arts. 37 a 41) | 3 |
-| DC8 | Organização dos Poderes: noções | 4 |
-| DC9 | Segurança Pública (art. 144), ponte com a Legislação da PRF | 4 |
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| IN1 | Editor de textos (Word e LibreOffice Writer) | 1 | 3 |
+| IN2 | Planilhas (Excel e LibreOffice Calc) | 1 | 3 |
+| IN3 | Apresentações (PowerPoint e LibreOffice Impress) | 1 | 3 |
+| IN4 | Internet e Intranet: conceitos, ferramentas e procedimentos | 2 e 4 | 4 |
+| IN5 | Navegadores, busca e pesquisa | 3 | 4 |
+| IN6 | Correio eletrônico e grupos de discussão | 3 | 4 |
+| IN7 | Sistemas de informação: conceitos | 5 | 5 |
+| IN8 | Segurança da informação: conceitos básicos | 5 | 5 |
+| IN9 | Computação em nuvem e ferramentas colaborativas **[PROJEÇÃO, não constava em 2014]** | Não constava | Só após o edital |
 
-## Direito Administrativo (DA)
-*6 questões em 2014 [HISTÓRICO]*
+## Legislação Relativa à PRF (LG): 6 questões × 1,5 ponto = 9 pontos
+*Conteúdo pequeno, com 4 normas, e peso de uma matéria específica inteira. Por isso entra já na Fase 2.*
 
-| Código | Módulo | Fase |
-|---|---|---|
-| DA1 | Estado, governo e administração pública | 2 |
-| DA2 | Princípios da administração pública | 2 |
-| DA3 | Organização administrativa: direta, indireta, desconcentração, descentralização | 2 |
-| DA4 | Poderes administrativos | 3 |
-| DA5 | Atos administrativos | 3 |
-| DA6 | Agentes públicos e Lei 8.112/1990: provimento, posse, exercício, vacância | 3 |
-| DA7 | Lei 8.112/1990: direitos, vantagens e deveres | 3 |
-| DA8 | Lei 8.112/1990: regime disciplinar e processo administrativo disciplinar (PAD) | 4 |
-| DA9 | Processo administrativo federal (Lei 9.784/1999) | 4 |
-| DA10 | Controle da administração e responsabilidade civil do Estado | 4 |
-| DA11 | Licitações e contratos: noções da Lei 14.133/2021 **[PROJEÇÃO]** | 5 |
-| DA12 | Acesso à informação (Lei 12.527/2011) **[PROJEÇÃO]** | 5 |
-
-## Noções de Administração (AD)
-*6 questões em 2014 [HISTÓRICO]*
-
-| Código | Módulo | Fase |
-|---|---|---|
-| AD1 | Funções administrativas: planejar, organizar, dirigir e controlar | 3 |
-| AD2 | Estrutura organizacional | 3 |
-| AD3 | Modelos de administração pública: patrimonialista, burocrático, gerencial | 3 |
-| AD4 | Gestão de pessoas: noções | 4 |
-| AD5 | Comunicação, motivação e liderança | 4 |
-| AD6 | Gestão de processos e qualidade | 4 |
-| AD7 | Atendimento ao público | 5 |
-| AD8 | Gestão de materiais e patrimônio: noções | 5 |
-
-## Noções de Arquivologia (AR)
-*6 questões em 2014 [HISTÓRICO]*
-
-| Código | Módulo | Fase |
-|---|---|---|
-| AR1 | Conceitos fundamentais: arquivo, documento, fundo, princípios arquivísticos | 3 |
-| AR2 | Teoria das três idades e ciclo de vida dos documentos | 3 |
-| AR3 | Gestão de documentos e protocolo | 3 |
-| AR4 | Classificação e métodos de arquivamento | 4 |
-| AR5 | Avaliação, tabela de temporalidade e eliminação | 4 |
-| AR6 | Preservação e conservação | 4 |
-| AR7 | Política Nacional de Arquivos (Lei 8.159/1991) | 5 |
-| AR8 | Documentos digitais: noções | 5 |
-
-## Noções de Informática (IN)
-*6 questões em 2014 [HISTÓRICO]. Conteúdo sensível a versão de software: cada módulo separa princípios duradouros de detalhes de versão.*
-
-| Código | Módulo | Fase |
-|---|---|---|
-| IN1 | Conceitos de hardware e software | 3 |
-| IN2 | Sistema operacional Windows: arquivos, pastas e conceitos | 3 |
-| IN3 | Editor de textos (Word e LibreOffice Writer) | 3 |
-| IN4 | Planilhas (Excel e LibreOffice Calc): fórmulas e funções básicas | 4 |
-| IN5 | Internet, navegadores e correio eletrônico | 4 |
-| IN6 | Segurança da informação: malware, golpes, backup, boas práticas | 4 |
-| IN7 | Computação em nuvem e ferramentas colaborativas | 5 |
-| IN8 | Redes: noções | 5 |
-
-## Legislação relativa à PRF (LG)
-*6 questões em 2014 [HISTÓRICO]. **Lista provisória: o conteúdo exato será definido pelo edital de 2014 (quando conferido) e pelo novo edital.***
-
-| Código | Módulo | Fase |
-|---|---|---|
-| LG1 | A PRF na Constituição (art. 144, §2º) | 4 |
-| LG2 | Competências da PRF: normas regulamentares **[INFORMAÇÃO NÃO CONFIRMADA, a definir]** | 4 |
-| LG3 | Estrutura e organização da PRF **[INFORMAÇÃO NÃO CONFIRMADA, a definir]** | 5 |
+| Código | Módulo | Item do edital de 2014 | Fase |
+|---|---|---|---|
+| LG1 | Art. 144 da Constituição: segurança pública, perfil constitucional e funções da PRF (texto atual) | 1 | 2 |
+| LG2 | Art. 20 do Código de Trânsito Brasileiro (Lei 9.503/1997): competências da PRF | 2 | 2 |
+| LG3 | Decreto 1.655/1995: competência da PRF (conferir a vigência) | 3 | 3 |
+| LG4 | Estrutura regimental: em 2014, Decreto 6.061/2007. O módulo vai estudar o decreto vigente que o substituiu, que precisa ser identificado. | 4 🔄 | 3 |
 
 ---
 
 ## Simulados
 | Código | Simulado | Quando |
 |---|---|---|
-| S0 | Miniteste diagnóstico: 20 questões autorais (LP, ET, DC, DA, RL) | Semana 8 |
-| S1 | Simulado parcial: 30 questões autorais | Semana 14 |
-| S2 | Prova PRF 2014, 1ª aplicação (FUNCAB), com análise | Semana 20 ou 21 |
-| S3 | Simulado completo autoral: 60 questões | Semana 22 ou 23 |
-| S4 | Prova PRF 2014, 2ª aplicação (FUNCAB), com análise | Semana 24 |
+| S0 | Miniteste diagnóstico: 20 questões autorais (LP, ET, DC, DA, LG) | Semana 8 |
+| S1 | Simulado parcial: 30 questões autorais, com a pontuação por peso de 2014 | Semana 14 |
+| S2 | Prova PRF 2014, FUNCAB, tipo/aplicação "01", com análise | Semana 20 ou 21 |
+| S3 | Simulado completo autoral: 60 questões no quadro de 2014 (valendo 90 pontos) | Semana 22 ou 23 |
+| S4 | Prova PRF 2014, versão "02". **Antes, vou verificar se ela é só a mesma prova com outra ordem de gabarito** (o item 9.8.1 do edital previa provas de mesmo teor com gabaritos diferentes). Se for igual à S2, será trocada por um simulado autoral. | Semana 24 |
 
 ---
 
 ## Ordem de produção (Etapa 3)
 Os módulos serão entregues **um por vez**, na ordem em que entram no ciclo:
 
-**Fase 1:** LP1 → ET1 → DC1 → LP2 → ET2 → DC2 → LP3
+**Fase 1:** LP1 ✅ → ET1 → DC1 → LP2 → ET2 → DC2 → LP3
 
-Depois, os módulos da Fase 2, e assim por diante.
+**Fase 2:** LP4 → DA1 → DC3 → LG1 → LP5 → DA2 → ET3 → DC4 → LG2 → LP6 → DA3 → DC5 → DA4
