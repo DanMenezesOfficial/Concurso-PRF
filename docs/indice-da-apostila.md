@@ -57,9 +57,11 @@ Todo módulo segue o mesmo roteiro:
 ## Língua Portuguesa (LP)
 *12 questões em 2014 [HISTÓRICO, a conferir no quadro do edital]*
 
+> Em 23/09/2026, um resultado de busca trouxe a lista de assuntos de Português do edital de 2014: compreensão e interpretação de textos; tipologia textual; ortografia oficial; acentuação gráfica; emprego das classes de palavras; crase; sintaxe da oração e do período; pontuação; concordância nominal e verbal; regência nominal e verbal; significação das palavras; redação de correspondências oficiais. Ela confere com os módulos abaixo. **[INFORMAÇÃO NÃO CONFIRMADA]**: o trecho não foi conferido no PDF.
+
 | Código | Módulo | Fase |
 |---|---|---|
-| LP1 | Compreensão e interpretação de textos | 1 |
+| LP1 | Compreensão e interpretação de textos: ✅ [pronto](apostila/LP1-compreensao-e-interpretacao-de-textos.md) | 1 |
 | LP2 | Tipologia textual e gêneros | 1 |
 | LP3 | Ortografia e acentuação (Acordo Ortográfico vigente) | 1 |
 | LP4 | Classes de palavras (foco no que a prova cobra) | 2 |

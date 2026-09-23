@@ -12,7 +12,8 @@ Material de preparação para o cargo de **Agente Administrativo da Polícia Rod
 | 2. Plano personalizado | [docs/etapa-2-plano-personalizado.md](docs/etapa-2-plano-personalizado.md) | ✅ Entregue |
 | 2. Método de estudo | [docs/etapa-2-metodo-de-estudo.md](docs/etapa-2-metodo-de-estudo.md) | ✅ Entregue |
 | 2. Índice da apostila | [docs/indice-da-apostila.md](docs/indice-da-apostila.md) | ✅ Entregue, aguardando validação |
-| 3. Apostila por disciplina e módulo | — | ⏳ Começa por LP1 |
+| 3. Apostila: LP1 (interpretação de textos) | [docs/apostila/LP1-compreensao-e-interpretacao-de-textos.md](docs/apostila/LP1-compreensao-e-interpretacao-de-textos.md) | ✅ Entregue |
+| 3. Próximos módulos | ET1 → DC1 → LP2 → ET2 → DC2 → LP3 | ⏳ |
 | 4. Acompanhamento semanal | [docs/acompanhamento-semanal.md](docs/acompanhamento-semanal.md) | ✅ Ficha pronta |
 
 ## Etiquetas usadas em todo o material
