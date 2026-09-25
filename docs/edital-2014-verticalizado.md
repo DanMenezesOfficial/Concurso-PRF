@@ -6,8 +6,8 @@
 | **Cargo** | Agente Administrativo, Classe A, Padrão I |
 | **Situação** | **PRÉ-EDITAL**. Este é o edital **anterior**, usado como mapa de estudo. |
 | **Classificação** | **[HISTÓRICO — EDITAL ANTERIOR]** |
-| **Versão** | 1.0 |
-| **Data de atualização** | 23/09/2026 |
+| **Versão** | 1.1 |
+| **Data de atualização** | 25/09/2026 |
 | **Documento utilizado** | PDF do Edital de Concurso Público nº 01/2014-PRF, de 7 de abril de 2014, com 30 páginas. Cópia hospedada por terceiro: <https://static-imp.imponline.com.br/wp-content/uploads/2020/06/EDITAL-AGENTE-ADM-PRF.pdf>. Lido na íntegra em 23/09/2026. A conferência no DOU está pendente. |
 
 > ⚠️ **Não é o edital do próximo concurso.** O próximo pode mudar a banca, as disciplinas, os pesos e o formato. Use esta lista como **checklist de estudo** e marque cada item conforme avançar.
@@ -23,7 +23,7 @@
 
 | Tema | O que o edital diz | Item e página |
 |---|---|---|
-| Banca | FUNCAB (Fundação Professor Carlos Augusto Bittencourt) | Preâmbulo e 1.1 (p. 1) |
+| Banca | FUNCAB (Fundação Professor Carlos Augusto Bittencourt). O concurso administrativo anterior, de **2012**, foi organizado pelo **Cespe**, segundo a página oficial da PRF. | Preâmbulo e 1.1 (p. 1); página "Concursos Anteriores" da PRF |
 | Autorização | Portaria MPOG nº 557, de 27/12/2013, DOU de 30/12/2013 | Preâmbulo (p. 1) |
 | Vagas | 216, distribuídas por regional | Preâmbulo; Anexo IV (p. 28–29) |
 | Validade | 2 anos, prorrogável uma vez por igual período | 1.3 (p. 1) |
@@ -186,9 +186,9 @@
 
 ### 3.9 Legislação Relativa à PRF (6 questões × 1,5 ponto)
 - ☐ 1. Art. 144 da Constituição Federal: perfil constitucional e funções institucionais → LG1 🔄 (o art. 144 foi alterado depois de 2014, por exemplo pela EC 82/2014, que incluiu o §10 sobre segurança viária, e pela EC 104/2019, que criou as polícias penais)
-- ☐ 2. Art. 20 da Lei nº 9.503/1997 (Código de Trânsito Brasileiro) → LG2 (conferir a redação vigente)
-- ☐ 3. Decreto nº 1.655/1995 → LG3 (conferir a vigência no Planalto)
-- ☐ 4. Decreto nº 6.061/2007 → LG4 🔄 (era a estrutura regimental do Ministério da Justiça. **Esse tipo de decreto é substituído com frequência.** O LG4 vai estudar o decreto vigente, que precisa ser identificado no Planalto) **[INFORMAÇÃO NÃO CONFIRMADA quanto ao decreto que o substituiu]**
+- ☐ 2. Art. 20 da Lei nº 9.503/1997 (Código de Trânsito Brasileiro) → LG2 🔄 (vigente. Incisos alterados pela Lei 14.071/2020, inciso III, e pela Lei 14.599/2023, inciso IV, que passou a usar o termo "sinistros de trânsito")
+- ☐ 3. Decreto nº 1.655/1995 → LG3 (**vigente**: a página do Planalto não traz aviso de revogação)
+- ☐ 4. Decreto nº 6.061/2007 → LG4 🔄 (**revogado**. A estrutura regimental do Ministério da Justiça foi trocada várias vezes: Decreto 6.061/2007 → 8.668/2016 → 9.150/2017 → 9.360/2018 → 9.662/2019 → 11.103/2022 → **11.348/2023, vigente**. No decreto vigente, o **art. 58 do Anexo I** trata das competências da PRF.)
 
 > 💡 **Legislação da PRF é pequena e vale 9 pontos:** são quatro normas curtas. Por isso ela subiu de prioridade no plano.
 
@@ -198,16 +198,16 @@
 
 | Norma | Em 2014 | Situação em 2026 | Como tratamos |
 |---|---|---|---|
-| Constituição Federal (arts. 1º a 144, conforme conteúdo) | Vigente | Vigente, com emendas posteriores | Estudar o texto atual |
+| Constituição Federal (arts. 1º a 144, conforme conteúdo) | Vigente | Vigente, com emendas posteriores. Por exemplo, a EC 104/2019 alterou o art. 144. | Estudar o texto atual |
 | Lei 8.112/1990 | Vigente | Vigente, com alterações | Estudar o texto compilado atual |
 | Lei 9.784/1999 | Vigente | Vigente, com alterações | Estudar o texto compilado atual |
 | Lei 8.429/1992 | Vigente | **Profundamente alterada pela Lei 14.230/2021** | Estudar só a redação nova. Questões antigas podem ter gabarito desatualizado. |
-| Lei 8.666/1993 | Vigente | **Revogada**, substituída pela Lei 14.133/2021 | Estudar a Lei 14.133/2021 (noções) |
-| Decreto 1.171/1994 | Vigente | Conferir alterações no Planalto | Conferir no módulo ET2 |
+| Lei 8.666/1993 | Vigente | **Revogada pela Lei 14.133/2021**, conferido no Planalto em 25/09/2026 | Estudar a Lei 14.133/2021 (noções) |
+| Decreto 1.171/1994 | Vigente | Vigente, conferido em 25/09/2026 | Estudar no ET2 |
 | Decreto 6.029/2007 | Vigente | Conferir alterações no Planalto | Conferir no módulo ET3 |
-| Lei 9.503/1997, art. 20 | Vigente | Conferir a redação atual | Conferir no módulo LG2 |
-| Decreto 1.655/1995 | Vigente | Conferir a vigência | Conferir no módulo LG3 |
-| Decreto 6.061/2007 | Vigente | Provavelmente substituído por decreto posterior **[NÃO CONFIRMADO]** | Identificar o vigente no módulo LG4 |
+| Lei 9.503/1997, art. 20 | Vigente | Vigente, com incisos alterados pelas Leis 14.071/2020 e 14.599/2023 | Estudar a redação atual no LG2 |
+| Decreto 1.655/1995 | Vigente | Vigente, conferido em 25/09/2026 | Estudar no LG3 |
+| Decreto 6.061/2007 | Vigente | **Revogado** (Decreto 8.668/2016). Vigente hoje: **Decreto 11.348/2023**, Anexo I, art. 58 (PRF) | Estudar o art. 58 do Decreto 11.348/2023 no LG4 |
 | Manual de Redação da Presidência da República | Edição da época | Há edição mais recente | Usar a edição vigente |
 
-> Todas as verificações de vigência serão feitas no **Portal da Legislação do Planalto** ao produzir cada módulo. Neste ambiente, o site do Planalto está bloqueado. Quando o bloqueio continuar, o módulo vai indicar isso claramente e trazer o link para você conferir.
+> ✅ **Situação conferida no Portal da Legislação do Planalto em 25/09/2026.** A redação de cada dispositivo será conferida de novo ao produzir cada módulo.

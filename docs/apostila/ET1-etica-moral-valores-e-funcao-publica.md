@@ -6,9 +6,9 @@
 | **Assunto** | Ética e moral; ética, princípios e valores; ética e democracia (exercício da cidadania); ética e função pública |
 | **Cargo** | Agente Administrativo da Polícia Rodoviária Federal (PRF) |
 | **Situação** | PRÉ-EDITAL |
-| **Versão** | 1.0 |
+| **Versão** | 1.1 |
 | **Data de atualização** | 25/09/2026 |
-| **Documentos utilizados** | Edital nº 01/2014-PRF, Anexo I (Ética e Conduta Pública, itens 1 a 4, p. 23) e item 9.5; Constituição Federal (arts. 1º, 5º, 14 e 37); Decreto 1.171/1994 (Seção I, prévia do ET2). **Consulta ao Planalto bloqueada neste ambiente em 25/09/2026. Ver seção 12.** |
+| **Documentos utilizados** | Edital nº 01/2014-PRF, Anexo I (Ética e Conduta Pública, itens 1 a 4, p. 23) e item 9.5; Constituição Federal (arts. 1º, 5º, 14 e 37); Decreto 1.171/1994 (Seção I, prévia do ET2). **Texto legal conferido no Planalto em 25/09/2026.** |
 | **Fase do ciclo** | Fase 1, primeiro bloco de ET |
 
 ---
@@ -221,13 +221,15 @@ Quem ocupa função pública age **em nome do Estado e para o público**. Daí d
 
 ## 12. Artigos mais relevantes e trechos para leitura
 
-> ⚠️ **Aviso de verificação:** em 25/09/2026, o Portal da Legislação do Planalto estava **bloqueado neste ambiente**. Os trechos abaixo reproduzem a redação conhecida desses dispositivos, que não têm alteração conhecida desde 2014, mas **precisam ser conferidos por você** nos links oficiais antes da revisão de 7 dias:
+> ✅ **Conferido no Portal da Legislação do Planalto em 25/09/2026. [OFICIAL E VIGENTE]** Os trechos abaixo correspondem à redação vigente.
 > - Constituição: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>
 > - Decreto 1.171/1994: <https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm>
 
 **CF, art. 1º, parágrafo único:** "Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição."
 
 **CF, art. 37, caput (trecho):** "A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência [...]"
+
+> 💡 **Curiosidade que já caiu em prova:** o princípio da **eficiência** não estava no texto original de 1988. Ele foi incluído pela **Emenda Constitucional nº 19/1998**. No Planalto, a redação antiga aparece riscada, sem a palavra "eficiência".
 
 **Decreto 1.171/1994, Anexo, Seção I, inciso II:** "O servidor público não poderá jamais desprezar o elemento ético de sua conduta. Assim, não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas principalmente entre o honesto e o desonesto [...]"
 
@@ -501,7 +503,6 @@ Registre se você:
 - [ ] Listo os instrumentos do art. 14 e explico a ação popular.
 - [ ] Diferencio moral comum de moralidade administrativa.
 - [ ] Acerto pelo menos 9 das 12 questões **e** justifico cada acerto.
-- [ ] Conferi no Planalto os trechos da seção 12.
 
 ---
 
@@ -510,7 +511,7 @@ Registre se você:
 | Revisão | Quando | O que fazer (tempo) |
 |---|---|---|
 | **24 horas** | Início da próxima sessão (DC1) | Responda de cabeça as perguntas 2, 3 e 7. (5 min) |
-| **7 dias** | Sessão curta de sexta | Faça Q9 a Q12 se ainda não fez, refaça os erros, responda as 9 perguntas de recordação e **confira no Planalto** os trechos da seção 12. (20 a 30 min) |
+| **7 dias** | Sessão curta de sexta | Faça Q9 a Q12 se ainda não fez, refaça os erros e responda as 9 perguntas de recordação. (20 a 30 min) |
 | **30 dias** | Revisão mensal | Refaça os flashcards e 10 questões novas de "ética e moral" e "ética no serviço público" de concursos federais de nível médio. Junte com a revisão do ET2. (30 min) |
 
 ---
@@ -518,10 +519,10 @@ Registre se você:
 ## 22. Fontes
 
 - **Edital nº 01/2014-PRF**, Anexo I, Ética e Conduta Pública, itens 1 a 4 (p. 23), e item 9.5 (p. 13–14). Lido na íntegra em 23/09/2026 a partir de cópia hospedada por terceiro. **[HISTÓRICO — EDITAL ANTERIOR]**
-- **Constituição da República Federativa do Brasil de 1988**, arts. 1º, 5º (XXXIII e LXXIII), 14 e 37 (caput e §4º). Link oficial: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. **Consulta bloqueada neste ambiente em 25/09/2026. Conferir.**
-- **Decreto nº 1.171, de 22 de junho de 1994** (Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal), Anexo, Seção I. Link oficial: <https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm>. **Consulta bloqueada neste ambiente em 25/09/2026. Conferir.**
+- **Constituição da República Federativa do Brasil de 1988**, arts. 1º, 5º (XXXIII e LXXIII), 14 e 37 (caput e §4º). Link oficial: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. **Conferido em 25/09/2026. [OFICIAL E VIGENTE]**
+- **Decreto nº 1.171, de 22 de junho de 1994** (Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal), Anexo, Seção I. Link oficial: <https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm>. **Conferido em 25/09/2026. [OFICIAL E VIGENTE]**
 - **Doutrina:** a distinção entre ética e moral e as teorias dos círculos concêntricos (Bentham) e secantes (Du Pasquier) são ensinamentos doutrinários consolidados na filosofia e na introdução ao estudo do Direito. **Não são texto legal.**
 - **Questões:** todas autorais.
 
 ## 23. Data de atualização
-**25/09/2026**, versão 1.0.
+**25/09/2026**, versão 1.1 (texto legal conferido no Planalto).

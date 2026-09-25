@@ -77,7 +77,7 @@ A base agora é o **conteúdo programático do edital de 2014**, com a legislaç
 | Administração | 6 × 1,5 = 9 | Não se aplica | [HISTÓRICO] |
 | Arquivologia | 6 × 1,5 = 9 | Não se aplica diretamente | [HISTÓRICO] |
 | Informática | 6 × 1,5 = 9 | Não se aplica. Depende da versão do software. | [HISTÓRICO] |
-| Legislação relativa à PRF | 6 × 1,5 = 9 | CF, art. 144; CTB, art. 20; Decreto 1.655/1995; estrutura regimental (em 2014, Decreto 6.061/2007) | [HISTÓRICO] + [NÃO CONFIRMADA] sobre o decreto que substituiu o 6.061 |
+| Legislação relativa à PRF | 6 × 1,5 = 9 | CF, art. 144; CTB, art. 20; Decreto 1.655/1995; estrutura regimental: o Decreto 6.061/2007 foi revogado, e hoje vale o **Decreto 11.348/2023, Anexo I, art. 58** | [HISTÓRICO]; vigência conferida no Planalto em 25/09/2026 |
 
 > ⚠️ **Duas leis de 2014 mudaram muito:**
 > - a **Lei 8.666/1993** foi revogada e substituída pela **Lei 14.133/2021**;

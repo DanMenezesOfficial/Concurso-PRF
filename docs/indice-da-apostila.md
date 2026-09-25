@@ -179,8 +179,8 @@ Todo módulo segue o mesmo roteiro:
 |---|---|---|---|
 | LG1 | Art. 144 da Constituição: segurança pública, perfil constitucional e funções da PRF (texto atual) | 1 | 2 |
 | LG2 | Art. 20 do Código de Trânsito Brasileiro (Lei 9.503/1997): competências da PRF | 2 | 2 |
-| LG3 | Decreto 1.655/1995: competência da PRF (conferir a vigência) | 3 | 3 |
-| LG4 | Estrutura regimental: em 2014, Decreto 6.061/2007. O módulo vai estudar o decreto vigente que o substituiu, que precisa ser identificado. | 4 🔄 | 3 |
+| LG3 | Decreto 1.655/1995: competência da PRF (vigente) | 3 | 3 |
+| LG4 | Estrutura regimental: em 2014, Decreto 6.061/2007, hoje revogado. O módulo estuda o **Decreto 11.348/2023, Anexo I, art. 58** (competências da PRF). | 4 🔄 | 3 |
 
 ---
 

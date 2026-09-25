@@ -5,17 +5,24 @@
 | **Título** | PRF ADM 2026 — Etapa 1: verificação oficial e diagnóstico |
 | **Cargo-alvo** | Agente Administrativo da Polícia Rodoviária Federal (área administrativa, nível médio) |
 | **Situação** | **PRÉ-EDITAL** (não há edital publicado nem autorização localizada) |
-| **Versão** | 1.1 |
-| **Data de atualização** | 23/09/2026 |
+| **Versão** | 1.2 |
+| **Data de atualização** | 25/09/2026 |
 | **Documentos utilizados** | Edital nº 01/2014-PRF (Agente Administrativo), **lido na íntegra** a partir do PDF enviado em 23/09/2026 (cópia hospedada por terceiro, 30 páginas); notícias sobre o pedido de autorização de 2026 (fontes não oficiais, usadas só como contexto) |
 
 > 🔄 **Atualização de 23/09/2026:** li o PDF completo do Edital nº 01/2014-PRF. As linhas históricas abaixo foram conferidas **item por item** e agora citam o item e a página. O PDF é uma cópia publicada por um site de cursos, e não pelo DOU. O conteúdo é coerente e completo, mas a conferência no Diário Oficial continua pendente. O edital verticalizado de 2014 está em [edital-2014-verticalizado.md](edital-2014-verticalizado.md).
 
+
+> ✅ **Verificação oficial de 25/09/2026.** Com a rede liberada, consultei diretamente as fontes oficiais:
+> 1. **Portal da PRF, página "Concursos"** (<https://www.gov.br/prf/pt-br/acesso-a-informacao/servidores/concursos-e-selecoes>). A página, modificada pela última vez em 23/07/2021, **não lista nenhum concurso aberto**.
+> 2. **Portal da PRF, página "Concursos Anteriores"** (<https://www.gov.br/prf/pt-br/acesso-a-informacao/servidores/concursos-e-selecoes/editais-anteriores>). Na seção "Administrativo", lista o **Concurso Público Administrativo 2014** (link para a FUNCAB) e o **Concurso Público Administrativo 2012** (link para o Cespe).
+> 3. **Diário Oficial da União** (busca em <https://www.in.gov.br/consulta>, período de 1 ano, termos "agente administrativo Polícia Rodoviária Federal concurso" e "autoriza concurso Polícia Rodoviária Federal"). **Não encontrei portaria de autorização nem edital para o cargo administrativo.** Os atos da PRF encontrados tratam do cargo **policial**: Editais Concurso PRF nº 118/2025 e nº 119/2026 e Decreto nº 12.765/2025, sobre nomeação de excedentes. Também aparecem atos da **Polícia Federal**, que é outro órgão. **[OFICIAL E VIGENTE]**
+>
+> **Limites da busca:** o buscador do DOU mostra até 20 resultados por página. Uma autorização publicada com outra redação poderia não aparecer. Essa verificação será repetida periodicamente.
 ---
 
 ## 0. Aviso importante sobre as fontes desta consulta
 
-> ⚠️ **Limitação de acesso — leia antes de tudo**
+> ℹ️ **Registro histórico: limitação de acesso em 22/09/2026, resolvida em 25/09/2026 (ver a verificação oficial acima)**
 >
 > Em **22/09/2026**, tentei abrir diretamente os portais oficiais pedidos, nesta ordem:
 >
@@ -28,7 +35,7 @@
 >
 > O que consegui fazer foi **pesquisar na web** e ler os trechos que os buscadores devolvem. Por isso:
 >
-> - Nenhuma linha abaixo está marcada como **[OFICIAL E VIGENTE]**. Eu não li diretamente nenhum documento oficial vigente.
+> - Na época, nenhuma linha podia ser marcada como **[OFICIAL E VIGENTE]**. Isso mudou em 25/09/2026.
 > - As informações sobre 2014 aparecem como **[HISTÓRICO — EDITAL ANTERIOR]**, mas o conteúdo veio de reproduções do edital e de trechos da busca, não da minha leitura do PDF. Precisam ser conferidas.
 > - Tudo sobre 2026 vem de sites de cursinhos e de jornalismo especializado. Está marcado como **[INFORMAÇÃO NÃO CONFIRMADA]**.
 >
@@ -42,7 +49,7 @@ Data da consulta de todas as linhas: **22/09/2026**.
 
 | Item | O que se sabe | Fonte | Classificação |
 |---|---|---|---|
-| **Situação oficial** | **Não encontrei edital nem portaria de autorização** para a área administrativa da PRF. Veículos especializados dizem que, até 01/09/2026, não havia autorização na tabela do MGI (Ministério da Gestão e da Inovação em Serviços Públicos) nem nas páginas da PRF. | Busca na web; [Escuta Policial](https://escutapolicial.com.br/concurso-prf-administrativo-2026/), [Folha Dirigida](https://folha.qconcursos.com/n/concurso-prf-administrativo-2026-pode-ser-autorizado) | [INFORMAÇÃO NÃO CONFIRMADA] |
+| **Situação oficial** | **Não há edital nem autorização publicados.** A página oficial de concursos da PRF não lista concurso aberto, e a busca no DOU do último ano não encontrou portaria de autorização para o cargo administrativo (consultas de 25/09/2026). | Portal da PRF, páginas "Concursos" e "Concursos Anteriores"; DOU (in.gov.br) | [OFICIAL E VIGENTE] |
 | **Pedido de autorização** | O MJSP (Ministério da Justiça e Segurança Pública) teria protocolado em 27/05/2026 um pedido ao MGI para o cargo de Agente Administrativo. | [Folha Dirigida](https://folha.qconcursos.com/n/concurso-prf-administrativo-2026-pedido-novo-edital), [Gran](https://blog.grancursosonline.com.br/concurso-prf-administrativo/) | [INFORMAÇÃO NÃO CONFIRMADA] |
 | **Cargo** | Agente Administrativo, Classe A, Padrão I, do Plano Especial de Cargos do Departamento de Polícia Rodoviária Federal | Edital nº 01/2014-PRF, preâmbulo e item 2.1 (p. 1) | [HISTÓRICO — EDITAL ANTERIOR] |
 | **Escolaridade** | Nível médio completo, com diploma registrado | Edital nº 01/2014-PRF, item 2.1.1 (p. 2) | [HISTÓRICO — EDITAL ANTERIOR] |
@@ -70,7 +77,9 @@ Data da consulta de todas as linhas: **22/09/2026**.
 ## 2. O que é oficial, o que é histórico e o que é projeção
 
 ### ✅ Oficial e vigente
-**Nada, por enquanto.** Até esta consulta, não encontrei nenhum documento oficial vigente sobre um novo concurso administrativo da PRF. Isso tem dois motivos: (a) aparentemente o concurso ainda não foi autorizado; (b) não consegui abrir os portais oficiais para confirmar diretamente.
+- **Não existe edital nem autorização publicados** para o concurso administrativo da PRF (portal da PRF e DOU consultados em 25/09/2026).
+- A PRF teve concursos administrativos em **2012** (Cespe) e **2014** (FUNCAB), segundo a página oficial "Concursos Anteriores".
+- As leis citadas nos módulos são conferidas no Planalto, na redação vigente.
 
 ### 📜 Histórico (edital anterior, 2014)
 Serve como **mapa provável**, não como garantia. O próximo concurso pode mudar a banca, as disciplinas, o formato das questões, o número de questões e as etapas.

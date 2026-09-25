@@ -6,9 +6,9 @@
 | **Assunto** | Constituição: conceito, classificações e princípios fundamentais (arts. 1º a 4º) |
 | **Cargo** | Agente Administrativo da Polícia Rodoviária Federal (PRF) |
 | **Situação** | PRÉ-EDITAL |
-| **Versão** | 1.0 |
+| **Versão** | 1.1 |
 | **Data de atualização** | 25/09/2026 |
-| **Documentos utilizados** | Edital nº 01/2014-PRF, Anexo I (Direito Constitucional, item 1.1, p. 24) e item 9.5; Constituição Federal de 1988, arts. 1º a 4º e art. 60. **Consulta ao Planalto bloqueada neste ambiente em 25/09/2026. Ver seção 12.** |
+| **Documentos utilizados** | Edital nº 01/2014-PRF, Anexo I (Direito Constitucional, item 1.1, p. 24) e item 9.5; Constituição Federal de 1988, arts. 1º a 4º e art. 60. **Texto conferido no Planalto em 25/09/2026.** |
 | **Fase do ciclo** | Fase 1, primeiro bloco de DC |
 
 ---
@@ -260,7 +260,9 @@ Um plebiscito realizado em 1993, previsto no Ato das Disposições Constituciona
 
 ## 12. Artigos mais relevantes (lei seca)
 
-> ⚠️ **Aviso de verificação:** em 25/09/2026, o Portal da Legislação do Planalto **continuava bloqueado** neste ambiente. O texto abaixo reproduz a redação conhecida dos arts. 1º a 4º, que **não receberam emenda** desde 1988 segundo o meu conhecimento. **Confira no link oficial** antes da revisão de 7 dias: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>
+> ✅ **Conferido no Portal da Legislação do Planalto em 25/09/2026. [OFICIAL E VIGENTE]** Os arts. 1º a 4º e o art. 60, §2º e §4º, abaixo correspondem palavra por palavra à redação vigente: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>
+>
+> No site, o inciso IV do art. 1º traz a anotação "(Vide Lei nº 13.874, de 2019)". É só uma remissão à Lei da Liberdade Econômica, e não altera o texto.
 
 **Art. 1º** A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:
 I - a soberania;
@@ -290,6 +292,8 @@ VIII - repúdio ao terrorismo e ao racismo;
 IX - cooperação entre os povos para o progresso da humanidade;
 X - concessão de asilo político.
 Parágrafo único. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.
+
+**Art. 60, §2º** — A proposta será discutida e votada em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros.
 
 **Art. 60, §4º** (cláusulas pétreas, só como apoio) — Não será objeto de deliberação a proposta de emenda tendente a abolir:
 I - a forma federativa de Estado;
@@ -559,7 +563,6 @@ O art. 60, §4º, lista: forma **federativa** de Estado; voto direto, secreto, u
 - [ ] Classifico uma expressão como fundamento, objetivo ou princípio internacional sem hesitar (quadro da seção 8).
 - [ ] Explico por que a CF/88 é promulgada e rígida.
 - [ ] Acerto pelo menos 9 das 12 questões.
-- [ ] Conferi no Planalto o texto da seção 12.
 
 ---
 
@@ -568,7 +571,7 @@ O art. 60, §4º, lista: forma **federativa** de Estado; voto direto, secreto, u
 | Revisão | Quando | O que fazer (tempo) |
 |---|---|---|
 | **24 horas** | Início da próxima sessão (LP2) | Escreva de memória SO-CI-DI-VA-PLU e os 4 verbos do art. 3º. (5 min) |
-| **7 dias** | Sessão curta de sexta | Q9 a Q12; refaça os erros; cubra as colunas do quadro da seção 8 e preencha de memória; **confira a seção 12 no Planalto**. (20 a 30 min) |
+| **7 dias** | Sessão curta de sexta | Q9 a Q12; refaça os erros; cubra as colunas do quadro da seção 8 e preencha de memória. (20 a 30 min) |
 | **30 dias** | Revisão mensal | Leia de novo **só** os arts. 1º a 4º (lei seca, 5 min). Faça os flashcards e 10 questões novas de "princípios fundamentais" em uma plataforma gratuita. (30 min) |
 
 ---
@@ -576,9 +579,9 @@ O art. 60, §4º, lista: forma **federativa** de Estado; voto direto, secreto, u
 ## 22. Fontes
 
 - **Edital nº 01/2014-PRF**, Anexo I, Noções de Direito Constitucional, itens 1 e 1.1 (p. 24), e item 9.5 (p. 13–14). **[HISTÓRICO — EDITAL ANTERIOR]**
-- **Constituição da República Federativa do Brasil de 1988**, arts. 1º a 4º, art. 60 (§2º e §4º) e ADCT, art. 2º. Link oficial: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. **Consulta bloqueada neste ambiente em 25/09/2026. Conferir.**
+- **Constituição da República Federativa do Brasil de 1988**, arts. 1º a 4º, art. 60 (§2º e §4º) e ADCT, art. 2º. Link oficial: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. **Conferido em 25/09/2026. [OFICIAL E VIGENTE]**
 - **Doutrina:** os sentidos de Constituição (Lassalle, Schmitt e Kelsen), as classificações constitucionais e a expressão "freios e contrapesos" são construções doutrinárias consolidadas, e **não texto legal**. A classificação "super-rígida" é posição de parte da doutrina.
 - **Questões:** todas autorais.
 
 ## 23. Data de atualização
-**25/09/2026**, versão 1.0.
+**25/09/2026**, versão 1.1 (texto legal conferido no Planalto).
