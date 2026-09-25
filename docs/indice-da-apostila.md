@@ -78,7 +78,7 @@ Todo módulo segue o mesmo roteiro:
 ## Ética e Conduta Pública (ET): 6 questões × 1 ponto = 6 pontos
 | Código | Módulo | Item do edital de 2014 | Fase |
 |---|---|---|---|
-| ET1 | Ética e moral; princípios e valores; ética e democracia; ética e função pública | 1 a 4 | 1 |
+| ET1 | Ética e moral; princípios e valores; ética e democracia; ética e função pública: ✅ [pronto](apostila/ET1-etica-moral-valores-e-funcao-publica.md) | 1 a 4 | 1 |
 | ET2 | Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto 1.171/1994) | 5.1 | 1 |
 | ET3 | Sistema de Gestão da Ética do Poder Executivo Federal (Decreto 6.029/2007) | 5.1 | 2 |
 | ET4 | Improbidade administrativa: Lei 8.429/1992 **na redação da Lei 14.230/2021**. Serve também para Direito Administrativo, item 5.2. | 5.3 | 3 |
@@ -198,6 +198,6 @@ Todo módulo segue o mesmo roteiro:
 ## Ordem de produção (Etapa 3)
 Os módulos serão entregues **um por vez**, na ordem em que entram no ciclo:
 
-**Fase 1:** LP1 ✅ → ET1 → DC1 → LP2 → ET2 → DC2 → LP3
+**Fase 1:** LP1 ✅ → ET1 ✅ → DC1 → LP2 → ET2 → DC2 → LP3
 
 **Fase 2:** LP4 → DA1 → DC3 → LG1 → LP5 → DA2 → ET3 → DC4 → LG2 → LP6 → DA3 → DC5 → DA4

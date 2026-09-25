@@ -14,7 +14,8 @@ Material de preparação para o cargo de **Agente Administrativo da Polícia Rod
 | Edital de 2014 verticalizado | [docs/edital-2014-verticalizado.md](docs/edital-2014-verticalizado.md) | ✅ Conferido no PDF |
 | 2. Índice da apostila (v2.0, segue o edital de 2014) | [docs/indice-da-apostila.md](docs/indice-da-apostila.md) | ✅ Entregue |
 | 3. Apostila: LP1 (interpretação de textos) | [docs/apostila/LP1-compreensao-e-interpretacao-de-textos.md](docs/apostila/LP1-compreensao-e-interpretacao-de-textos.md) | ✅ Entregue |
-| 3. Próximos módulos | ET1 → DC1 → LP2 → ET2 → DC2 → LP3 | ⏳ |
+| 3. Apostila: ET1 (ética, moral e função pública) | [docs/apostila/ET1-etica-moral-valores-e-funcao-publica.md](docs/apostila/ET1-etica-moral-valores-e-funcao-publica.md) | ✅ Entregue |
+| 3. Próximos módulos | DC1 → LP2 → ET2 → DC2 → LP3 | ⏳ |
 | 4. Acompanhamento semanal | [docs/acompanhamento-semanal.md](docs/acompanhamento-semanal.md) | ✅ Ficha pronta |
 
 ## Etiquetas usadas em todo o material
