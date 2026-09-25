@@ -16,8 +16,27 @@ Material de preparação para o cargo de **Agente Administrativo da Polícia Rod
 | 3. Apostila: LP1 (interpretação de textos) | [docs/apostila/LP1-compreensao-e-interpretacao-de-textos.md](docs/apostila/LP1-compreensao-e-interpretacao-de-textos.md) | ✅ Entregue |
 | 3. Apostila: ET1 (ética, moral e função pública) | [docs/apostila/ET1-etica-moral-valores-e-funcao-publica.md](docs/apostila/ET1-etica-moral-valores-e-funcao-publica.md) | ✅ Entregue |
 | 3. Apostila: DC1 (Constituição e princípios fundamentais) | [docs/apostila/DC1-constituicao-conceito-classificacoes-principios-fundamentais.md](docs/apostila/DC1-constituicao-conceito-classificacoes-principios-fundamentais.md) | ✅ Entregue |
-| 3. Próximos módulos | LP2 → ET2 → DC2 → LP3 | ⏳ |
+| 3. Apostila: LP2 (tipologia textual) | [docs/apostila/LP2-tipologia-textual.md](docs/apostila/LP2-tipologia-textual.md) | ✅ Entregue |
+| 3. Próximos módulos | ET2 → DC2 → LP3 | ⏳ |
 | 4. Acompanhamento semanal | [docs/acompanhamento-semanal.md](docs/acompanhamento-semanal.md) | ✅ Ficha pronta |
+
+## 📥 Baixar para o tablet (PDF)
+
+Todos os documentos têm versão em PDF na pasta [`pdf/`](pdf/). No GitHub, abra o arquivo e toque em **Download** (ícone de seta para baixo).
+
+| Documento | PDF |
+|---|---|
+| Plano personalizado | [pdf/etapa-2-plano-personalizado.pdf](pdf/etapa-2-plano-personalizado.pdf) |
+| Método de estudo | [pdf/etapa-2-metodo-de-estudo.pdf](pdf/etapa-2-metodo-de-estudo.pdf) |
+| Índice da apostila | [pdf/indice-da-apostila.pdf](pdf/indice-da-apostila.pdf) |
+| Edital 2014 verticalizado | [pdf/edital-2014-verticalizado.pdf](pdf/edital-2014-verticalizado.pdf) |
+| Ficha de acompanhamento | [pdf/acompanhamento-semanal.pdf](pdf/acompanhamento-semanal.pdf) |
+| LP1: Interpretação de textos | [pdf/LP1-compreensao-e-interpretacao-de-textos.pdf](pdf/LP1-compreensao-e-interpretacao-de-textos.pdf) |
+| ET1: Ética, moral e função pública | [pdf/ET1-etica-moral-valores-e-funcao-publica.pdf](pdf/ET1-etica-moral-valores-e-funcao-publica.pdf) |
+| DC1: Constituição e princípios fundamentais | [pdf/DC1-constituicao-conceito-classificacoes-principios-fundamentais.pdf](pdf/DC1-constituicao-conceito-classificacoes-principios-fundamentais.pdf) |
+| LP2: Tipologia textual | [pdf/LP2-tipologia-textual.pdf](pdf/LP2-tipologia-textual.pdf) |
+
+Para regenerar os PDFs depois de editar um `.md`: `pip install markdown` e `python3 scripts/gerar_pdfs.py`.
 
 ## Etiquetas usadas em todo o material
 
