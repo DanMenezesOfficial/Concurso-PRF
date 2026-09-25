@@ -18,7 +18,8 @@ Material de preparação para o cargo de **Agente Administrativo da Polícia Rod
 | 3. Apostila: DC1 (Constituição e princípios fundamentais) | [docs/apostila/DC1-constituicao-conceito-classificacoes-principios-fundamentais.md](docs/apostila/DC1-constituicao-conceito-classificacoes-principios-fundamentais.md) | ✅ Entregue |
 | 3. Apostila: LP2 (tipologia textual) | [docs/apostila/LP2-tipologia-textual.md](docs/apostila/LP2-tipologia-textual.md) | ✅ Entregue |
 | 3. Apostila: ET2 (Código de Ética, Decreto 1.171/1994) | [docs/apostila/ET2-codigo-de-etica-decreto-1171.md](docs/apostila/ET2-codigo-de-etica-decreto-1171.md) | ✅ Entregue |
-| 3. Próximos módulos | DC2 → LP3 → (Fase 2) | ⏳ |
+| 3. Apostila: DC2 (art. 5º, parte 1) | [docs/apostila/DC2-direitos-e-deveres-individuais-e-coletivos-parte-1.md](docs/apostila/DC2-direitos-e-deveres-individuais-e-coletivos-parte-1.md) | ✅ Entregue |
+| 3. Próximos módulos | LP3 → (Fase 2) | ⏳ |
 | 4. Acompanhamento semanal | [docs/acompanhamento-semanal.md](docs/acompanhamento-semanal.md) | ✅ Ficha pronta |
 
 ## 📥 Baixar para o tablet (PDF)
@@ -37,6 +38,7 @@ Todos os documentos têm versão em PDF na pasta [`pdf/`](pdf/). No GitHub, abra
 | DC1: Constituição e princípios fundamentais | [pdf/DC1-constituicao-conceito-classificacoes-principios-fundamentais.pdf](pdf/DC1-constituicao-conceito-classificacoes-principios-fundamentais.pdf) |
 | LP2: Tipologia textual | [pdf/LP2-tipologia-textual.pdf](pdf/LP2-tipologia-textual.pdf) |
 | ET2: Código de Ética (Decreto 1.171/1994) | [pdf/ET2-codigo-de-etica-decreto-1171.pdf](pdf/ET2-codigo-de-etica-decreto-1171.pdf) |
+| DC2: Direitos individuais e coletivos (art. 5º, parte 1) | [pdf/DC2-direitos-e-deveres-individuais-e-coletivos-parte-1.pdf](pdf/DC2-direitos-e-deveres-individuais-e-coletivos-parte-1.pdf) |
 
 Para regenerar os PDFs depois de editar um `.md`: `pip install markdown` e `python3 scripts/gerar_pdfs.py`.
 

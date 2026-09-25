@@ -102,8 +102,8 @@ Todo módulo segue o mesmo roteiro:
 | Código | Módulo | Item do edital de 2014 | Fase |
 |---|---|---|---|
 | DC1 | Constituição: conceito, classificações e princípios fundamentais (arts. 1º a 4º): ✅ [pronto](apostila/DC1-constituicao-conceito-classificacoes-principios-fundamentais.md) | 1 | 1 |
-| DC2 | Direitos e deveres individuais e coletivos (art. 5º), parte 1 | 2 | 1 |
-| DC3 | Art. 5º, parte 2: garantias e remédios constitucionais | 2 | 2 |
+| DC2 | Direitos e deveres individuais e coletivos (art. 5º, caput a XXXV e §§ 1º a 4º), parte 1: ✅ [pronto](apostila/DC2-direitos-e-deveres-individuais-e-coletivos-parte-1.md) | 2 | 1 |
+| DC3 | Art. 5º, parte 2 (incisos XXXVI a LXXIX): garantias penais e processuais e remédios constitucionais | 2 | 2 |
 | DC4 | Direitos sociais (arts. 6º a 11) | 2 | 2 |
 | DC5 | Nacionalidade, direitos políticos e partidos políticos (arts. 12 a 17) | 2 | 2 |
 | DC6 | Organização político-administrativa: União, estados, DF, municípios e territórios | 3 | 3 |
@@ -198,6 +198,6 @@ Todo módulo segue o mesmo roteiro:
 ## Ordem de produção (Etapa 3)
 Os módulos serão entregues **um por vez**, na ordem em que entram no ciclo:
 
-**Fase 1:** LP1 ✅ → ET1 ✅ → DC1 ✅ → LP2 ✅ → ET2 ✅ → DC2 → LP3
+**Fase 1:** LP1 ✅ → ET1 ✅ → DC1 ✅ → LP2 ✅ → ET2 ✅ → DC2 ✅ → LP3
 
 **Fase 2:** LP4 → DA1 → DC3 → LG1 → LP5 → DA2 → ET3 → DC4 → LG2 → LP6 → DA3 → DC5 → DA4
