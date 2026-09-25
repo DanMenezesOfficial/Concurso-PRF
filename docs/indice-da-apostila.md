@@ -63,7 +63,7 @@ Todo módulo segue o mesmo roteiro:
 |---|---|---|---|
 | LP1 | Compreensão e interpretação de textos: ✅ [pronto](apostila/LP1-compreensao-e-interpretacao-de-textos.md) | 1 | 1 |
 | LP2 | Tipologia textual: ✅ [pronto](apostila/LP2-tipologia-textual.md) | 2 | 1 |
-| LP3 | Ortografia oficial e acentuação gráfica | 3 e 4 | 1 |
+| LP3 | Ortografia oficial e acentuação gráfica: ✅ [pronto](apostila/LP3-ortografia-e-acentuacao.md) | 3 e 4 | 1 |
 | LP4 | Emprego das classes de palavras | 5 | 2 |
 | LP5 | Pontuação | 8 | 2 |
 | LP6 | Concordância nominal e verbal | 9 | 2 |
@@ -198,6 +198,6 @@ Todo módulo segue o mesmo roteiro:
 ## Ordem de produção (Etapa 3)
 Os módulos serão entregues **um por vez**, na ordem em que entram no ciclo:
 
-**Fase 1:** LP1 ✅ → ET1 ✅ → DC1 ✅ → LP2 ✅ → ET2 ✅ → DC2 ✅ → LP3
+**Fase 1:** LP1 ✅ → ET1 ✅ → DC1 ✅ → LP2 ✅ → ET2 ✅ → DC2 ✅ → LP3 ✅
 
 **Fase 2:** LP4 → DA1 → DC3 → LG1 → LP5 → DA2 → ET3 → DC4 → LG2 → LP6 → DA3 → DC5 → DA4
